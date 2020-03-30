@@ -1,0 +1,3 @@
+;; Configuration and orientation for semi-automated organization of
+;; Ginkgo SARS-CoV-2 cDNA Synthesis work
+{:google {:sheets {:construct-groups "13vPqT6NPtX0w1USyugPjTBoCQ2p7Swe4JkIxS7MIwRQ"}}}
