@@ -1,0 +1,31 @@
+##gff-version 3
+m4092653	GinkgoBioworks	backbone	1	1463	.	+	.	Name=ori-013 - marker | cmR
+m4092653	GinkgoBioworks	misc	1464	13643	.	+	.	Name=SARS-CoV2_F0-7(CMV version)
+m4105606	GinkgoBioworks	backbone	1	2682	.	+	.	Name=pUC19 EcoRI NEBuilder polished;antibiotic-resistance=ampicillin;copy-number=high
+m4105606	GinkgoBioworks	promoter	2683	2700	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4105606	GinkgoBioworks	misc	2701	7621	.	+	.	Name=F1-3 [:4904]
+m4105606	GinkgoBioworks	terminator	7622	7669	.	+	.	Name=T7 terminator-002
+m4105607	GinkgoBioworks	backbone	1	2682	.	+	.	Name=pUC19 EcoRI NEBuilder polished;antibiotic-resistance=ampicillin;copy-number=high
+m4105607	GinkgoBioworks	promoter	2683	2700	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4105607	GinkgoBioworks	misc	2701	10893	.	+	.	Name=F8-12WW [11108:19300]
+m4105607	GinkgoBioworks	terminator	10894	10941	.	+	.	Name=T7 terminator-002
+m4105609	GinkgoBioworks	backbone	1	2682	.	+	.	Name=pUC19 EcoRI NEBuilder polished;antibiotic-resistance=ampicillin;copy-number=high
+m4105609	GinkgoBioworks	promoter	2683	2700	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4105609	GinkgoBioworks	misc	2701	13992	.	+	.	Name=SARS-CoV-2 [1:11292]
+m4105609	GinkgoBioworks	terminator	13993	14040	.	+	.	Name=T7 terminator-002
+m4105610	GinkgoBioworks	backbone	1	2682	.	+	.	Name=pUC19 EcoRI NEBuilder polished;antibiotic-resistance=ampicillin;copy-number=high
+m4105610	GinkgoBioworks	promoter	2683	2700	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4105610	GinkgoBioworks	misc	2701	6522	.	+	.	Name=SARS-CoV-2 S
+m4105610	GinkgoBioworks	terminator	6523	6570	.	+	.	Name=T7 terminator-002
+m4105611	GinkgoBioworks	backbone	1	2682	.	+	.	Name=pUC19 EcoRI NEBuilder polished;antibiotic-resistance=ampicillin;copy-number=high
+m4105611	GinkgoBioworks	promoter	2683	2700	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4105611	GinkgoBioworks	misc	2701	13155	.	+	.	Name=SARS-CoV-2 [11108:21562]
+m4105611	GinkgoBioworks	terminator	13156	13203	.	+	.	Name=T7 terminator-002
+m4105612	GinkgoBioworks	backbone	1	2682	.	+	.	Name=pUC19 EcoRI NEBuilder polished;antibiotic-resistance=ampicillin;copy-number=high
+m4105612	GinkgoBioworks	promoter	2683	2700	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4105612	GinkgoBioworks	misc	2701	9284	.	+	.	Name=F4-7 [4709:11292]
+m4105612	GinkgoBioworks	terminator	9285	9332	.	+	.	Name=T7 terminator-002
+m4105633	GinkgoBioworks	backbone	1	2682	.	+	.	Name=pUC19 EcoRI NEBuilder polished;antibiotic-resistance=ampicillin;copy-number=high
+m4105633	GinkgoBioworks	promoter	2683	2700	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4105633	GinkgoBioworks	misc	2701	11015	.	+	.	Name=SARS-CoV-2 [21556:~-10]
+m4105633	GinkgoBioworks	terminator	11016	11063	.	+	.	Name=T7 terminator-002
