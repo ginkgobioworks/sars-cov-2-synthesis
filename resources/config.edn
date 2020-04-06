@@ -1,3 +1,18 @@
 ;; Configuration and orientation for semi-automated organization of
 ;; Ginkgo SARS-CoV-2 Synthesis work
-{:google {:sheets {:construct-groups "13vPqT6NPtX0w1USyugPjTBoCQ2p7Swe4JkIxS7MIwRQ"}}}
+{:google {:sheets {:construct-groups "13vPqT6NPtX0w1USyugPjTBoCQ2p7Swe4JkIxS7MIwRQ"}}
+ :adjust-properties
+ {:display-name {"S (spike)" #{"surface gylcoprotein"}
+                 "E (envelope)" #{"envelope protein"}
+                 "M (membrane)" #{"membrane glycoprotein"}
+                 "N (nucleocapsid)" #{"nucleocapsid phosphoprotein"}
+                 "Cleavable thrombin" #{"linker_cleavable_thrombin_scerevisiae"}
+                 "MBP" #{"orf_EPITOPE_mbp_scerevisiae" "MBP"}
+                 "6xHIS" #{"EPITOPE_affinity_6xhis_multiple" "Tag | 6xHis"}
+                 "StrepII" #{"EPITOPE_affinity_strepii_multiple" "Tag | StrepII"}
+                 "3xFLAG" #{"Sc 3x FLAG tag"}}
+  :vectors {2114452 {:display-name "AmpR; 2u URA3"
+                     :antibiotic-resistance "ampicillin"
+                     :copy-number "high"
+                     :prototrophy "uracil"}
+            1586711 {:display-name "Cleavable thrombin"}}}}
