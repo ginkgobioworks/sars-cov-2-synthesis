@@ -1,6 +1,246 @@
 ##gff-version 3
 m4092653	GinkgoBioworks	backbone	1	1463	.	+	.	Name=ori-013 - marker | cmR
 m4092653	GinkgoBioworks	misc	1464	13643	.	+	.	Name=SARS-CoV2_F0-7(CMV version)
+m4092663	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092663	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092663	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092663	GinkgoBioworks	backbone	8415	9877	.	+	.	Name=ori-013 - marker | cmR
+m4092664	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092664	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092664	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092664	GinkgoBioworks	backbone	8387	10650	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092665	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092665	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092665	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092665	GinkgoBioworks	backbone	8387	10650	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092666	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092666	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092666	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092666	GinkgoBioworks	backbone	8415	10678	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092667	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092667	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092667	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092667	GinkgoBioworks	backbone	8387	10650	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092668	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092668	GinkgoBioworks	misc	19	8090	.	+	.	Name=fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092668	GinkgoBioworks	terminator	8091	8138	.	+	.	Name=T7 terminator-002
+m4092668	GinkgoBioworks	backbone	8139	9601	.	+	.	Name=ori-013 - marker | cmR
+m4092669	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092669	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092669	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092669	GinkgoBioworks	backbone	8415	10678	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092670	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092670	GinkgoBioworks	misc	19	13501	.	+	.	Name=fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092670	GinkgoBioworks	terminator	13502	13549	.	+	.	Name=T7 terminator-002
+m4092670	GinkgoBioworks	backbone	13550	15813	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092671	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092671	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092671	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092671	GinkgoBioworks	backbone	8415	10383	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092672	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092672	GinkgoBioworks	misc	19	8572	.	+	.	Name=fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092672	GinkgoBioworks	terminator	8573	8620	.	+	.	Name=T7 terminator-002
+m4092672	GinkgoBioworks	backbone	8621	10884	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092673	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092673	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092673	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092673	GinkgoBioworks	backbone	8387	9849	.	+	.	Name=ori-013 - marker | cmR
+m4092674	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092674	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092674	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092674	GinkgoBioworks	backbone	8387	10355	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092675	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092675	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092675	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092675	GinkgoBioworks	backbone	8415	10383	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092676	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092676	GinkgoBioworks	misc	19	8572	.	+	.	Name=fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092676	GinkgoBioworks	terminator	8573	8620	.	+	.	Name=T7 terminator-002
+m4092676	GinkgoBioworks	backbone	8621	10884	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092677	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092677	GinkgoBioworks	misc	19	8090	.	+	.	Name=fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092677	GinkgoBioworks	terminator	8091	8138	.	+	.	Name=T7 terminator-002
+m4092677	GinkgoBioworks	backbone	8139	10107	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092678	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092678	GinkgoBioworks	misc	19	4947	.	+	.	Name=fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092678	GinkgoBioworks	terminator	4948	4995	.	+	.	Name=T7 terminator-002
+m4092678	GinkgoBioworks	backbone	4996	7259	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092679	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092679	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092679	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092679	GinkgoBioworks	backbone	8415	9877	.	+	.	Name=ori-013 - marker | cmR
+m4092680	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092680	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092680	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092680	GinkgoBioworks	backbone	8397	10365	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092681	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092681	GinkgoBioworks	misc	19	8090	.	+	.	Name=fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092681	GinkgoBioworks	terminator	8091	8138	.	+	.	Name=T7 terminator-002
+m4092681	GinkgoBioworks	backbone	8139	10402	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092682	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092682	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092682	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092682	GinkgoBioworks	backbone	8397	9859	.	+	.	Name=ori-013 - marker | cmR
+m4092683	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092683	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092683	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092683	GinkgoBioworks	backbone	8415	9877	.	+	.	Name=ori-013 - marker | cmR
+m4092684	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092684	GinkgoBioworks	misc	19	4947	.	+	.	Name=fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092684	GinkgoBioworks	terminator	4948	4995	.	+	.	Name=T7 terminator-002
+m4092684	GinkgoBioworks	backbone	4996	6964	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092685	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092685	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092685	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092685	GinkgoBioworks	backbone	8387	9849	.	+	.	Name=ori-013 - marker | cmR
+m4092686	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092686	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092686	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092686	GinkgoBioworks	backbone	8387	10355	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092687	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092687	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092687	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092687	GinkgoBioworks	backbone	8415	10678	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092688	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092688	GinkgoBioworks	misc	19	8090	.	+	.	Name=fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092688	GinkgoBioworks	terminator	8091	8138	.	+	.	Name=T7 terminator-002
+m4092688	GinkgoBioworks	backbone	8139	10107	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092689	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092689	GinkgoBioworks	misc	19	4947	.	+	.	Name=fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092689	GinkgoBioworks	terminator	4948	4995	.	+	.	Name=T7 terminator-002
+m4092689	GinkgoBioworks	backbone	4996	6458	.	+	.	Name=ori-013 - marker | cmR
+m4092690	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092690	GinkgoBioworks	misc	19	8572	.	+	.	Name=fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092690	GinkgoBioworks	terminator	8573	8620	.	+	.	Name=T7 terminator-002
+m4092690	GinkgoBioworks	backbone	8621	10589	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092691	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092691	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092691	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092691	GinkgoBioworks	backbone	8397	10660	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092692	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092692	GinkgoBioworks	misc	19	8572	.	+	.	Name=fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092692	GinkgoBioworks	terminator	8573	8620	.	+	.	Name=T7 terminator-002
+m4092692	GinkgoBioworks	backbone	8621	10083	.	+	.	Name=ori-013 - marker | cmR
+m4092693	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092693	GinkgoBioworks	misc	19	13501	.	+	.	Name=fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092693	GinkgoBioworks	terminator	13502	13549	.	+	.	Name=T7 terminator-002
+m4092693	GinkgoBioworks	backbone	13550	15813	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092694	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092694	GinkgoBioworks	misc	19	4947	.	+	.	Name=fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092694	GinkgoBioworks	terminator	4948	4995	.	+	.	Name=T7 terminator-002
+m4092694	GinkgoBioworks	backbone	4996	6964	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092695	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092695	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092695	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092695	GinkgoBioworks	backbone	8415	10383	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092696	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092696	GinkgoBioworks	misc	19	8572	.	+	.	Name=fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092696	GinkgoBioworks	terminator	8573	8620	.	+	.	Name=T7 terminator-002
+m4092696	GinkgoBioworks	backbone	8621	10083	.	+	.	Name=ori-013 - marker | cmR
+m4092697	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092697	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092697	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092697	GinkgoBioworks	backbone	8397	10365	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092698	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092698	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092698	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092698	GinkgoBioworks	backbone	8387	10355	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092699	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092699	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092699	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092699	GinkgoBioworks	backbone	8415	10678	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092700	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092700	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092700	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092700	GinkgoBioworks	backbone	8397	9859	.	+	.	Name=ori-013 - marker | cmR
+m4092701	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092701	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092701	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092701	GinkgoBioworks	backbone	8387	10355	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092702	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092702	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092702	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092702	GinkgoBioworks	backbone	8415	9877	.	+	.	Name=ori-013 - marker | cmR
+m4092703	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092703	GinkgoBioworks	misc	19	4947	.	+	.	Name=fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092703	GinkgoBioworks	terminator	4948	4995	.	+	.	Name=T7 terminator-002
+m4092703	GinkgoBioworks	backbone	4996	6458	.	+	.	Name=ori-013 - marker | cmR
+m4092704	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092704	GinkgoBioworks	misc	19	13501	.	+	.	Name=fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092704	GinkgoBioworks	terminator	13502	13549	.	+	.	Name=T7 terminator-002
+m4092704	GinkgoBioworks	backbone	13550	15012	.	+	.	Name=ori-013 - marker | cmR
+m4092705	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092705	GinkgoBioworks	misc	19	8090	.	+	.	Name=fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092705	GinkgoBioworks	terminator	8091	8138	.	+	.	Name=T7 terminator-002
+m4092705	GinkgoBioworks	backbone	8139	10402	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092706	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092706	GinkgoBioworks	misc	19	8090	.	+	.	Name=fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092706	GinkgoBioworks	terminator	8091	8138	.	+	.	Name=T7 terminator-002
+m4092706	GinkgoBioworks	backbone	8139	9601	.	+	.	Name=ori-013 - marker | cmR
+m4092707	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092707	GinkgoBioworks	misc	19	8366	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092707	GinkgoBioworks	terminator	8367	8414	.	+	.	Name=T7 terminator-002
+m4092707	GinkgoBioworks	backbone	8415	10383	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092708	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092708	GinkgoBioworks	misc	19	13501	.	+	.	Name=fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092708	GinkgoBioworks	terminator	13502	13549	.	+	.	Name=T7 terminator-002
+m4092708	GinkgoBioworks	backbone	13550	15518	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092709	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092709	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092709	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092709	GinkgoBioworks	backbone	8397	9859	.	+	.	Name=ori-013 - marker | cmR
+m4092710	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092710	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092710	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092710	GinkgoBioworks	backbone	8387	9849	.	+	.	Name=ori-013 - marker | cmR
+m4092711	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092711	GinkgoBioworks	misc	19	13501	.	+	.	Name=fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092711	GinkgoBioworks	terminator	13502	13549	.	+	.	Name=T7 terminator-002
+m4092711	GinkgoBioworks	backbone	13550	15518	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092712	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092712	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092712	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092712	GinkgoBioworks	backbone	8397	10365	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092713	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092713	GinkgoBioworks	misc	19	4947	.	+	.	Name=fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092713	GinkgoBioworks	terminator	4948	4995	.	+	.	Name=T7 terminator-002
+m4092713	GinkgoBioworks	backbone	4996	7259	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092714	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092714	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092714	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092714	GinkgoBioworks	backbone	8387	10650	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092715	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092715	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092715	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092715	GinkgoBioworks	backbone	8397	10660	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092716	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092716	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092716	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092716	GinkgoBioworks	backbone	8397	10365	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092717	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092717	GinkgoBioworks	misc	19	13501	.	+	.	Name=fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092717	GinkgoBioworks	terminator	13502	13549	.	+	.	Name=T7 terminator-002
+m4092717	GinkgoBioworks	backbone	13550	15012	.	+	.	Name=ori-013 - marker | cmR
+m4092718	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092718	GinkgoBioworks	misc	19	8572	.	+	.	Name=fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092718	GinkgoBioworks	terminator	8573	8620	.	+	.	Name=T7 terminator-002
+m4092718	GinkgoBioworks	backbone	8621	10589	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+m4092719	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092719	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092719	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092719	GinkgoBioworks	backbone	8397	10660	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092720	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092720	GinkgoBioworks	misc	19	8338	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092720	GinkgoBioworks	terminator	8339	8386	.	+	.	Name=T7 terminator-002
+m4092720	GinkgoBioworks	backbone	8387	9849	.	+	.	Name=ori-013 - marker | cmR
+m4092721	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092721	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | Nearly native encoding
+m4092721	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092721	GinkgoBioworks	backbone	8397	10660	.	+	.	Name=p15A Kan | from m1954452;antibiotic-resistance=kanamycin;copy-number=medium
+m4092722	GinkgoBioworks	promoter	1	18	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
+m4092722	GinkgoBioworks	misc	19	8348	.	+	.	Name=fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1%2C complete genome | wt encoded
+m4092722	GinkgoBioworks	terminator	8349	8396	.	+	.	Name=T7 terminator-002
+m4092722	GinkgoBioworks	backbone	8397	9859	.	+	.	Name=ori-013 - marker | cmR
 m4105606	GinkgoBioworks	backbone	1	2682	.	+	.	Name=pUC19 EcoRI NEBuilder polished;antibiotic-resistance=ampicillin;copy-number=high
 m4105606	GinkgoBioworks	promoter	2683	2700	.	+	.	Name=Promoter | t7 consensus from NEB%2C G is +1
 m4105606	GinkgoBioworks	misc	2701	7621	.	+	.	Name=F1-3 [:4904]

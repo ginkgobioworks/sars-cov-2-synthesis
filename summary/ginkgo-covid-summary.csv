@@ -1,3 +1,7 @@
 intent-group,description,usefulness,loom-design,constructs,loom-name,loom-description,organism,transaction-id,transaction-name,vendor,dna-type
 Yeast expression,Yeast expression,,946,416,P141 covid19 protein expression and purification cytosolic,P141 covid19 protein expression and purification designs,Saccharomyces cerevisiae,681,covid19-cytosolic protein expression yeast,Ginkgo DNA Synthesis,circDNA
 Yeast expression,Yeast expression no tags,,949,104,No tags P141 covid19 protein expression and purification cytosolic (946),P141 covid19 protein expression and purification designs,Saccharomyces cerevisiae,682,no tag controls cerevisiae protein expression cytosolic covid19,Ginkgo DNA Synthesis,circDNA
+Community Requests,S protein in Yeast display format,,,,,,,,,,
+Community Requests,"Hojun Li lab at MIT wants a S protein w/o Furin cleaveage site, tagged, in lentiviral vector",,,,,,,,,,
+Community Requests,Free genes enzymes - https://t.co/MTZpncuYVn?ssr=true,,,,,,,,,,
+Community Requests,HelixNano: mutated S proteins,,,,,,,,,,
