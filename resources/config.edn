@@ -1,6 +1,7 @@
 ;; Configuration and orientation for semi-automated organization of
 ;; Ginkgo SARS-CoV-2 Synthesis work
 {:google {:sheets {:construct-groups "13vPqT6NPtX0w1USyugPjTBoCQ2p7Swe4JkIxS7MIwRQ"}}
+ ;; Fixing of properties
  :adjust-properties
  {:display-name {"S (spike)" #{"surface gylcoprotein"}
                  "E (envelope)" #{"envelope protein"}
@@ -10,9 +11,20 @@
                  "MBP" #{"orf_EPITOPE_mbp_scerevisiae" "MBP"}
                  "6xHIS" #{"EPITOPE_affinity_6xhis_multiple" "Tag | 6xHis"}
                  "StrepII" #{"EPITOPE_affinity_strepii_multiple" "Tag | StrepII"}
-                 "3xFLAG" #{"Sc 3x FLAG tag"}}
-  :vectors {2114452 {:display-name "AmpR; 2u URA3"
-                     :antibiotic-resistance "ampicillin"
-                     :copy-number "high"
-                     :prototrophy "uracil"}
-            1586711 {:display-name "Cleavable thrombin"}}}}
+                 "3xFLAG" #{"Sc 3x FLAG tag"}
+                 }
+  :mol-props {2114452 {:display-name "AmpR; 2u URA3"
+                       :antibiotic-resistance "ampicillin"
+                       :copy-number "high"
+                       :prototrophy "uracil"}
+              2848551 {:antibiotic-resistance "chloroamphenicol"
+                       :copy-number "high"}
+              1586711 {:display-name "Cleavable thrombin"}
+              1106295 {:display-name "Cleavable TEV"}
+              1106277 {:display-name "HA"}
+              1106288 {:display-name "Myc"}
+              1106275 {:display-name "FLAG_2"}
+            }}
+ ;; Details on Addgene submissions
+ :addgene {"2020-04-07" {:containers [503313 503317 503945]}}
+ }
