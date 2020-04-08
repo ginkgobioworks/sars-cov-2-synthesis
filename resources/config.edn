@@ -17,8 +17,9 @@
                        :antibiotic-resistance "ampicillin"
                        :copy-number "high"
                        :prototrophy "uracil"}
-              2848551 {:antibiotic-resistance "chloroamphenicol"
-                       :copy-number "high"}
+              2848551 {:antibiotic-resistance "chloramphenicol"
+                       :copy-number "high"
+                       :growth-condition "Best grown in 30C"}
               1586711 {:display-name "Cleavable thrombin"}
               1106295 {:display-name "Cleavable TEV"}
               1106277 {:display-name "HA"}
