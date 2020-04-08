@@ -27,5 +27,5 @@
               1106275 {:display-name "FLAG_2"}
             }}
  ;; Details on Addgene submissions
- :addgene {"2020-04-07" {:containers [503313 503317 503945]}}
+ :addgene {"2020-04-07" {:containers [503313 503317 503945 504295]}}
  }
