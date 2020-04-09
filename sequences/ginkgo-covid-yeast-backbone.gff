@@ -1,55 +1,55 @@
 ##gff-version 3
-m4044072	GinkgoBioworks	marker	1	1916	.	+	.	Name=ScLEU2;prototrophy=leucine
-m4044072	GinkgoBioworks	oriC	1917	2899	.	+	.	Name=2 micron S. cerevisiae
-m4044072	GinkgoBioworks	misc	2900	4868	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044072	GinkgoBioworks	promoter	4869	5337	.	+	.	Name=pGAL1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044072	GinkgoBioworks	backbone	5338	6122	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044072	GinkgoBioworks	terminator	6123	6322	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044073	GinkgoBioworks	marker	1	1357	.	+	.	Name=KanMX expression cassette
-m4044073	GinkgoBioworks	oriC	1358	2340	.	+	.	Name=2 micron S. cerevisiae
-m4044073	GinkgoBioworks	misc	2341	4309	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044073	GinkgoBioworks	promoter	4310	4731	.	+	.	Name=pTEF1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044073	GinkgoBioworks	backbone	4732	5516	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044073	GinkgoBioworks	terminator	5517	5716	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044074	GinkgoBioworks	marker	1	1916	.	+	.	Name=ScLEU2;prototrophy=leucine
-m4044074	GinkgoBioworks	oriC	1917	2899	.	+	.	Name=2 micron S. cerevisiae
-m4044074	GinkgoBioworks	misc	2900	4868	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044074	GinkgoBioworks	promoter	4869	5568	.	+	.	Name=pADH1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044074	GinkgoBioworks	backbone	5569	6353	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044074	GinkgoBioworks	terminator	6354	6553	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044075	GinkgoBioworks	marker	1	1352	.	+	.	Name=KlURA3
-m4044075	GinkgoBioworks	oriC	1353	2335	.	+	.	Name=2 micron S. cerevisiae
-m4044075	GinkgoBioworks	misc	2336	4304	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044075	GinkgoBioworks	promoter	4305	5004	.	+	.	Name=pADH1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044075	GinkgoBioworks	backbone	5005	5789	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044075	GinkgoBioworks	terminator	5790	5989	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044076	GinkgoBioworks	marker	1	1352	.	+	.	Name=KlURA3
-m4044076	GinkgoBioworks	oriC	1353	2335	.	+	.	Name=2 micron S. cerevisiae
-m4044076	GinkgoBioworks	misc	2336	4304	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044076	GinkgoBioworks	promoter	4305	4773	.	+	.	Name=pGAL1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044076	GinkgoBioworks	backbone	4774	5558	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044076	GinkgoBioworks	terminator	5559	5758	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044077	GinkgoBioworks	marker	1	1916	.	+	.	Name=ScLEU2;prototrophy=leucine
-m4044077	GinkgoBioworks	oriC	1917	2899	.	+	.	Name=2 micron S. cerevisiae
-m4044077	GinkgoBioworks	misc	2900	4868	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044077	GinkgoBioworks	promoter	4869	5290	.	+	.	Name=pTEF1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044077	GinkgoBioworks	backbone	5291	6075	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044077	GinkgoBioworks	terminator	6076	6275	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044078	GinkgoBioworks	marker	1	1357	.	+	.	Name=KanMX expression cassette
-m4044078	GinkgoBioworks	oriC	1358	2340	.	+	.	Name=2 micron S. cerevisiae
-m4044078	GinkgoBioworks	misc	2341	4309	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044078	GinkgoBioworks	promoter	4310	5009	.	+	.	Name=pADH1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044078	GinkgoBioworks	backbone	5010	5794	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044078	GinkgoBioworks	terminator	5795	5994	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044079	GinkgoBioworks	marker	1	1352	.	+	.	Name=KlURA3
-m4044079	GinkgoBioworks	oriC	1353	2335	.	+	.	Name=2 micron S. cerevisiae
-m4044079	GinkgoBioworks	misc	2336	4304	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044079	GinkgoBioworks	promoter	4305	4726	.	+	.	Name=pTEF1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044079	GinkgoBioworks	backbone	4727	5511	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044079	GinkgoBioworks	terminator	5512	5711	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044080	GinkgoBioworks	marker	1	1357	.	+	.	Name=KanMX expression cassette
-m4044080	GinkgoBioworks	oriC	1358	2340	.	+	.	Name=2 micron S. cerevisiae
-m4044080	GinkgoBioworks	misc	2341	4309	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
-m4044080	GinkgoBioworks	promoter	4310	4778	.	+	.	Name=pGAL1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
-m4044080	GinkgoBioworks	backbone	4779	5563	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
-m4044080	GinkgoBioworks	terminator	5564	5763	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044072	GinkgoBioworks	marker	1	1916	.	+	.	Name=ScLEU2;prototrophy=leucine
+pGBW-m4044072	GinkgoBioworks	oriC	1917	2899	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044072	GinkgoBioworks	misc	2900	4868	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044072	GinkgoBioworks	promoter	4869	5337	.	+	.	Name=pGAL1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044072	GinkgoBioworks	backbone	5338	6122	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044072	GinkgoBioworks	terminator	6123	6322	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044073	GinkgoBioworks	marker	1	1357	.	+	.	Name=KanMX expression cassette
+pGBW-m4044073	GinkgoBioworks	oriC	1358	2340	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044073	GinkgoBioworks	misc	2341	4309	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044073	GinkgoBioworks	promoter	4310	4731	.	+	.	Name=pTEF1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044073	GinkgoBioworks	backbone	4732	5516	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044073	GinkgoBioworks	terminator	5517	5716	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044074	GinkgoBioworks	marker	1	1916	.	+	.	Name=ScLEU2;prototrophy=leucine
+pGBW-m4044074	GinkgoBioworks	oriC	1917	2899	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044074	GinkgoBioworks	misc	2900	4868	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044074	GinkgoBioworks	promoter	4869	5568	.	+	.	Name=pADH1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044074	GinkgoBioworks	backbone	5569	6353	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044074	GinkgoBioworks	terminator	6354	6553	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044075	GinkgoBioworks	marker	1	1352	.	+	.	Name=KlURA3
+pGBW-m4044075	GinkgoBioworks	oriC	1353	2335	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044075	GinkgoBioworks	misc	2336	4304	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044075	GinkgoBioworks	promoter	4305	5004	.	+	.	Name=pADH1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044075	GinkgoBioworks	backbone	5005	5789	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044075	GinkgoBioworks	terminator	5790	5989	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044076	GinkgoBioworks	marker	1	1352	.	+	.	Name=KlURA3
+pGBW-m4044076	GinkgoBioworks	oriC	1353	2335	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044076	GinkgoBioworks	misc	2336	4304	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044076	GinkgoBioworks	promoter	4305	4773	.	+	.	Name=pGAL1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044076	GinkgoBioworks	backbone	4774	5558	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044076	GinkgoBioworks	terminator	5559	5758	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044077	GinkgoBioworks	marker	1	1916	.	+	.	Name=ScLEU2;prototrophy=leucine
+pGBW-m4044077	GinkgoBioworks	oriC	1917	2899	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044077	GinkgoBioworks	misc	2900	4868	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044077	GinkgoBioworks	promoter	4869	5290	.	+	.	Name=pTEF1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044077	GinkgoBioworks	backbone	5291	6075	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044077	GinkgoBioworks	terminator	6076	6275	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044078	GinkgoBioworks	marker	1	1357	.	+	.	Name=KanMX expression cassette
+pGBW-m4044078	GinkgoBioworks	oriC	1358	2340	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044078	GinkgoBioworks	misc	2341	4309	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044078	GinkgoBioworks	promoter	4310	5009	.	+	.	Name=pADH1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044078	GinkgoBioworks	backbone	5010	5794	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044078	GinkgoBioworks	terminator	5795	5994	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044079	GinkgoBioworks	marker	1	1352	.	+	.	Name=KlURA3
+pGBW-m4044079	GinkgoBioworks	oriC	1353	2335	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044079	GinkgoBioworks	misc	2336	4304	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044079	GinkgoBioworks	promoter	4305	4726	.	+	.	Name=pTEF1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044079	GinkgoBioworks	backbone	4727	5511	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044079	GinkgoBioworks	terminator	5512	5711	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044080	GinkgoBioworks	marker	1	1357	.	+	.	Name=KanMX expression cassette
+pGBW-m4044080	GinkgoBioworks	oriC	1358	2340	.	+	.	Name=2 micron S. cerevisiae
+pGBW-m4044080	GinkgoBioworks	misc	2341	4309	.	+	.	Name=pG9m-2 backbone;antibiotic-resistance=ampicillin;copy-number=medium
+pGBW-m4044080	GinkgoBioworks	promoter	4310	4778	.	+	.	Name=pGAL1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd
+pGBW-m4044080	GinkgoBioworks	backbone	4779	5563	.	+	.	Name=bsmBI - pp - bsmBI (amp);organism=Saccharomyces cerevisiae;copy-number=low
+pGBW-m4044080	GinkgoBioworks	terminator	5564	5763	.	+	.	Name=tCYC1;source-organism=Saccharomyces cerevisiae;target-organism=Saccharomyces cerevisiae;source-database=sgd

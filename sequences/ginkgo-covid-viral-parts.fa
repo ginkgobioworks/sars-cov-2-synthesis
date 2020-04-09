@@ -1,4 +1,4 @@
->m4092653 SARS-CoV2_F0-7(CMV version) ori-013 - marker | cmR
+>pGBW-m4092653 SARS-CoV2_F0-7(CMV version) ori-013 - marker | cmR
 ttgagatcctttttttctgcgcgtaatctgctgcttgcaaacaaaaaaaccaccgctaccagcggtggtttgtttgccgg
 atcaagagctaccaactctttttccgaaggtaactggcttcagcagagcgcagataccaaatactgttcttctagtgtag
 ccgtagttaggccaccacttcaagaactctgtagcaccgcctacatacctcgctctgctaatcctgttaccagtggctgc
@@ -170,7 +170,7 @@ attttaatatggtctatatgcctgctagttgggtgatgcgtattatgacatggttggatatggttgatactagtttgtct
 ggttttaagctaaaagactgtgttatgtatgcatcagctgtagtgttactaatccttatgacagcaagaactgtgtatga
 tgatggtgctaggagagtgtggacacttatgaatgtcttgacactcgtttataaagtttattatggtaatgctttagatc
 aagccatttccatgtgggctcttataatctctgttacttctaa
->m4092663 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092663 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -295,7 +295,7 @@ aacttcttcgcccccgttttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggt
 tcatcatgccgtttgtgatggcttccatgtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcg
 gggcgtaatttgatatcgagctcgcttggactcctgttgatagatccagtaatgacctcagaactccatctggatttgtt
 cagaacgctcggttgccgccgggcgttttttattggt
->m4092664 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092664 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -430,7 +430,7 @@ agcctccggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagcgatatctaga
 gaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctc
 acaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaat
 tgcgttaagc
->m4092665 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092665 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -565,7 +565,7 @@ agcctccggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagcgatatctaga
 gaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctc
 acaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaat
 tgcgttaagc
->m4092666 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092666 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -700,7 +700,7 @@ ttacgtgccgatcaagaagacggtcaaaagcctccggtcggaggcttttgactttctgctatggaggtcaggtatgattt
 aaatggtcagtattgagcgatatctagagaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagct
 gtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtg
 cctaatgagtgagctaactcacattaattgcgttaagc
->m4092667 fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
+>pGBW-m4092667 fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -835,7 +835,7 @@ agcctccggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagcgatatctaga
 gaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctc
 acaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaat
 tgcgttaagc
->m4092668 fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092668 fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactataggtgcagcccgtcttacaccgtgcggcacaggcactagtactgatgtcgtatacagggctttt
 gacatctacaatgataaagtagctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaaga
 tgacaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaatttataatt
@@ -957,7 +957,7 @@ tatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccatgtcggcag
 aatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttggactcctg
 ttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccgccgggcgttttttattgg
 t
->m4092669 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092669 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -1092,7 +1092,7 @@ ttacgtgccgatcaagaagacggtcaaaagcctccggtcggaggcttttgactttctgctatggaggtcaggtatgattt
 aaatggtcagtattgagcgatatctagagaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagct
 gtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtg
 cctaatgagtgagctaactcacattaattgcgttaagc
->m4092670 fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
+>pGBW-m4092670 fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -1291,7 +1291,7 @@ gaaagttggaacctcttacgtgccgatcaagaagacggtcaaaagcctccggtcggaggcttttgactttctgctatgga
 ggtcaggtatgatttaaatggtcagtattgagcgatatctagagaattcgtcagcggaagagccagccaagcttggcgta
 atcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagt
 gtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttaagc
->m4092671 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092671 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -1422,7 +1422,7 @@ gagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggt
 atctgcgctctgctgaagccagttacctcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagc
 ggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaag
 aaaggcccacccgtgaaggtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092672 fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
+>pGBW-m4092672 fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -1560,7 +1560,7 @@ cggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagcgatatctagagaattc
 gtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaatt
 ccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgtt
 aagc
->m4092673 fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
+>pGBW-m4092673 fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -1685,7 +1685,7 @@ gcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccat
 gtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttg
 gactcctgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccgccgggcgttt
 tttattggt
->m4092674 fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
+>pGBW-m4092674 fragment of orf1ab 3pUTR to viral genome 3pUTR with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -1816,7 +1816,7 @@ gttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttacct
 cggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcaga
 ttacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagt
 gagttgattgcagtccagttacgctggagtcaagc
->m4092675 fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
+>pGBW-m4092675 fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -1947,7 +1947,7 @@ gagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggt
 atctgcgctctgctgaagccagttacctcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagc
 ggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaag
 aaaggcccacccgtgaaggtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092676 fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092676 fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -2085,7 +2085,7 @@ cggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagcgatatctagagaattc
 gtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaatt
 ccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgtt
 aagc
->m4092677 fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
+>pGBW-m4092677 fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
 taatacgactcactataggtgcagcccgtcttacaccgtgcggcacaggcactagtactgatgtcgtatacagggctttt
 gacatctacaatgataaagtagctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaaga
 tgacaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaatttataatt
@@ -2213,7 +2213,7 @@ agtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttacctcggaaaaa
 gagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgc
 agaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagtgagttgat
 tgcagtccagttacgctggagtcaagc
->m4092678 fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092678 fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagaaaattgttaataattggttgaagcagttaattaaagttacacttgtgttcctttttgttgc
 tgctattttctatttaataacacctgttcatgtcatgtctaaacatactgacttttcaagtgaaatcataggatacaagg
 ctattgatggtggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgattttgacacatgg
@@ -2305,7 +2305,7 @@ tatggtgaaagttggaacctcttacgtgccgatcaagaagacggtcaaaagcctccggtcggaggcttttgactttctgc
 tatggaggtcaggtatgatttaaatggtcagtattgagcgatatctagagaattcgtcagcggaagagccagccaagctt
 ggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagca
 taaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttaagc
->m4092679 fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
+>pGBW-m4092679 fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -2430,7 +2430,7 @@ aacttcttcgcccccgttttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggt
 tcatcatgccgtttgtgatggcttccatgtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcg
 gggcgtaatttgatatcgagctcgcttggactcctgttgatagatccagtaatgacctcagaactccatctggatttgtt
 cagaacgctcggttgccgccgggcgttttttattggt
->m4092680 fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
+>pGBW-m4092680 fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -2561,7 +2561,7 @@ gtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaag
 ccagttacctcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgc
 aagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaag
 gtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092681 fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
+>pGBW-m4092681 fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
 taatacgactcactataggtgcagcccgtcttacaccgtgcggcacaggcactagtactgatgtcgtatacagggctttt
 gacatctacaatgataaagtagctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaaga
 tgacaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaatttataatt
@@ -2693,7 +2693,7 @@ gtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagcgatatctagagaattcgt
 cagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattcc
 acacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttaa
 gc
->m4092682 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092682 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -2818,7 +2818,7 @@ ttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtga
 tggcttccatgtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcg
 agctcgcttggactcctgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccg
 ccgggcgttttttattggt
->m4092683 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092683 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -2943,7 +2943,7 @@ aacttcttcgcccccgttttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggt
 tcatcatgccgtttgtgatggcttccatgtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcg
 gggcgtaatttgatatcgagctcgcttggactcctgttgatagatccagtaatgacctcagaactccatctggatttgtt
 cagaacgctcggttgccgccgggcgttttttattggt
->m4092684 fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092684 fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagaaaattgttaataattggttgaagcagttaattaaagttacacttgtgttcctttttgttgc
 tgctattttctatttaataacacctgttcatgtcatgtctaaacatactgacttttcaagtgaaatcataggatacaagg
 ctattgatggtggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgattttgacacatgg
@@ -3032,7 +3032,7 @@ actagaagaacagtatttggtatctgcgctctgctgaagccagttacctcggaaaaagagttggtagctcttgatccggc
 aaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaaga
 tcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagtgagttgattgcagtccagttacgctggagtc
 aagc
->m4092685 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092685 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -3157,7 +3157,7 @@ gcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccat
 gtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttg
 gactcctgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccgccgggcgttt
 tttattggt
->m4092686 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092686 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -3288,7 +3288,7 @@ gttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttacct
 cggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcaga
 ttacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagt
 gagttgattgcagtccagttacgctggagtcaagc
->m4092687 fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
+>pGBW-m4092687 fragment of orf1ab 3pUTR to viral genome 3pUTR | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -3423,7 +3423,7 @@ ttacgtgccgatcaagaagacggtcaaaagcctccggtcggaggcttttgactttctgctatggaggtcaggtatgattt
 aaatggtcagtattgagcgatatctagagaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagct
 gtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtg
 cctaatgagtgagctaactcacattaattgcgttaagc
->m4092688 fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092688 fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactataggtgcagcccgtcttacaccgtgcggcacaggcactagtactgatgtcgtatacagggctttt
 gacatctacaatgataaagtagctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaaga
 tgacaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaatttataatt
@@ -3551,7 +3551,7 @@ agtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttacctcggaaaaa
 gagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgc
 agaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagtgagttgat
 tgcagtccagttacgctggagtcaagc
->m4092689 fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
+>pGBW-m4092689 fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
 taatacgactcactatagaaaattgttaataattggttgaagcagttaattaaagttacacttgtgttcctttttgttgc
 tgctattttctatttaataacacctgttcatgtcatgtctaaacatactgacttttcaagtgaaatcataggatacaagg
 ctattgatggtggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgattttgacacatgg
@@ -3633,7 +3633,7 @@ ttaaacgtggccaatatggacaacttcttcgcccccgttttcaccatgggcaaatattatacgcaaggcgacaaggtgct
 gatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccatgtcggcagaatgcttaatgaattacaacagt
 actgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttggactcctgttgatagatccagtaatgacctc
 agaactccatctggatttgttcagaacgctcggttgccgccgggcgttttttattggt
->m4092690 fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092690 fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -3767,7 +3767,7 @@ gaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttacctcggaaa
 aagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgc
 gcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagtgagttg
 attgcagtccagttacgctggagtcaagc
->m4092691 fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
+>pGBW-m4092691 fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -3902,7 +3902,7 @@ gacggtcaaaagcctccggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagc
 gatatctagagaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattg
 ttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaac
 tcacattaattgcgttaagc
->m4092692 fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092692 fragment 5pUTR to orf1a mature peptide 3 with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -4030,7 +4030,7 @@ attatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccatgtcggc
 agaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttggactcc
 tgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccgccgggcgttttttatt
 ggt
->m4092693 fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092693 fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -4229,7 +4229,7 @@ gaaagttggaacctcttacgtgccgatcaagaagacggtcaaaagcctccggtcggaggcttttgactttctgctatgga
 ggtcaggtatgatttaaatggtcagtattgagcgatatctagagaattcgtcagcggaagagccagccaagcttggcgta
 atcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagt
 gtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttaagc
->m4092694 fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
+>pGBW-m4092694 fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
 taatacgactcactatagaaaattgttaataattggttgaagcagttaattaaagttacacttgtgttcctttttgttgc
 tgctattttctatttaataacacctgttcatgtcatgtctaaacatactgacttttcaagtgaaatcataggatacaagg
 ctattgatggtggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgattttgacacatgg
@@ -4318,7 +4318,7 @@ actagaagaacagtatttggtatctgcgctctgctgaagccagttacctcggaaaaagagttggtagctcttgatccggc
 aaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaaga
 tcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagtgagttgattgcagtccagttacgctggagtc
 aagc
->m4092695 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092695 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -4449,7 +4449,7 @@ gagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggt
 atctgcgctctgctgaagccagttacctcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagc
 ggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaag
 aaaggcccacccgtgaaggtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092696 fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
+>pGBW-m4092696 fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -4577,7 +4577,7 @@ attatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccatgtcggc
 agaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttggactcc
 tgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccgccgggcgttttttatt
 ggt
->m4092697 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092697 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -4708,7 +4708,7 @@ gtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaag
 ccagttacctcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgc
 aagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaag
 gtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092698 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092698 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -4839,7 +4839,7 @@ gttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttacct
 cggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcaga
 ttacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagt
 gagttgattgcagtccagttacgctggagtcaagc
->m4092699 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092699 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -4974,7 +4974,7 @@ ttacgtgccgatcaagaagacggtcaaaagcctccggtcggaggcttttgactttctgctatggaggtcaggtatgattt
 aaatggtcagtattgagcgatatctagagaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagct
 gtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtg
 cctaatgagtgagctaactcacattaattgcgttaagc
->m4092700 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092700 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -5099,7 +5099,7 @@ ttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtga
 tggcttccatgtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcg
 agctcgcttggactcctgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccg
 ccgggcgttttttattggt
->m4092701 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092701 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -5230,7 +5230,7 @@ gttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttacct
 cggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcaga
 ttacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagt
 gagttgattgcagtccagttacgctggagtcaagc
->m4092702 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092702 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -5355,7 +5355,7 @@ aacttcttcgcccccgttttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggt
 tcatcatgccgtttgtgatggcttccatgtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcg
 gggcgtaatttgatatcgagctcgcttggactcctgttgatagatccagtaatgacctcagaactccatctggatttgtt
 cagaacgctcggttgccgccgggcgttttttattggt
->m4092703 fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092703 fragment orf1a mature peptide 3 to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagaaaattgttaataattggttgaagcagttaattaaagttacacttgtgttcctttttgttgc
 tgctattttctatttaataacacctgttcatgtcatgtctaaacatactgacttttcaagtgaaatcataggatacaagg
 ctattgatggtggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgattttgacacatgg
@@ -5437,7 +5437,7 @@ ttaaacgtggccaatatggacaacttcttcgcccccgttttcaccatgggcaaatattatacgcaaggcgacaaggtgct
 gatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccatgtcggcagaatgcttaatgaattacaacagt
 actgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttggactcctgttgatagatccagtaatgacctc
 agaactccatctggatttgttcagaacgctcggttgccgccgggcgttttttattggt
->m4092704 fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092704 fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -5626,7 +5626,7 @@ gtggccaatatggacaacttcttcgcccccgttttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgcc
 gctggcgattcaggttcatcatgccgtttgtgatggcttccatgtcggcagaatgcttaatgaattacaacagtactgcg
 atgagtggcagggcggggcgtaatttgatatcgagctcgcttggactcctgttgatagatccagtaatgacctcagaact
 ccatctggatttgttcagaacgctcggttgccgccgggcgttttttattggt
->m4092705 fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092705 fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactataggtgcagcccgtcttacaccgtgcggcacaggcactagtactgatgtcgtatacagggctttt
 gacatctacaatgataaagtagctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaaga
 tgacaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaatttataatt
@@ -5758,7 +5758,7 @@ gtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagcgatatctagagaattcgt
 cagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattcc
 acacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttaa
 gc
->m4092706 fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
+>pGBW-m4092706 fragment orf1a stop to orf1b stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
 taatacgactcactataggtgcagcccgtcttacaccgtgcggcacaggcactagtactgatgtcgtatacagggctttt
 gacatctacaatgataaagtagctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaaga
 tgacaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaatttataatt
@@ -5880,7 +5880,7 @@ tatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccatgtcggcag
 aatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttggactcctg
 ttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccgccgggcgttttttattgg
 t
->m4092707 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092707 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -6011,7 +6011,7 @@ gagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggt
 atctgcgctctgctgaagccagttacctcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagc
 ggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaag
 aaaggcccacccgtgaaggtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092708 fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092708 fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -6206,7 +6206,7 @@ gtaacaggattagcagagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactaga
 agaacagtatttggtatctgcgctctgctgaagccagttacctcggaaaaagagttggtagctcttgatccggcaaacaa
 accaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaagatccttt
 gattttctaccgaagaaaggcccacccgtgaaggtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092709 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092709 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -6331,7 +6331,7 @@ ttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtga
 tggcttccatgtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcg
 agctcgcttggactcctgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccg
 ccgggcgttttttattggt
->m4092710 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092710 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -6456,7 +6456,7 @@ gcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccat
 gtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttg
 gactcctgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccgccgggcgttt
 tttattggt
->m4092711 fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
+>pGBW-m4092711 fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -6651,7 +6651,7 @@ gtaacaggattagcagagcgaggtatgtaggcggtgctacagagttcttgaagtggtggcctaactacggctacactaga
 agaacagtatttggtatctgcgctctgctgaagccagttacctcggaaaaagagttggtagctcttgatccggcaaacaa
 accaccgctggtagcggtggtttttttgtttgcaagcagcagattacgcgcagaaaaaaaggatctcaagaagatccttt
 gattttctaccgaagaaaggcccacccgtgaaggtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092712 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092712 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -6782,7 +6782,7 @@ gtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaag
 ccagttacctcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgc
 aagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaag
 gtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092713 fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
+>pGBW-m4092713 fragment orf1a mature peptide 3 to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded p15A Kan | from m1954452
 taatacgactcactatagaaaattgttaataattggttgaagcagttaattaaagttacacttgtgttcctttttgttgc
 tgctattttctatttaataacacctgttcatgtcatgtctaaacatactgacttttcaagtgaaatcataggatacaagg
 ctattgatggtggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgattttgacacatgg
@@ -6874,7 +6874,7 @@ tatggtgaaagttggaacctcttacgtgccgatcaagaagacggtcaaaagcctccggtcggaggcttttgactttctgc
 tatggaggtcaggtatgatttaaatggtcagtattgagcgatatctagagaattcgtcagcggaagagccagccaagctt
 ggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagca
 taaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaattgcgttaagc
->m4092714 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092714 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -7009,7 +7009,7 @@ agcctccggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagcgatatctaga
 gaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattgttatccgctc
 acaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaactcacattaat
 tgcgttaagc
->m4092715 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092715 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -7144,7 +7144,7 @@ gacggtcaaaagcctccggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagc
 gatatctagagaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattg
 ttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaac
 tcacattaattgcgttaagc
->m4092716 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
+>pGBW-m4092716 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding pG9m-2 backbone
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -7275,7 +7275,7 @@ gtgctacagagttcttgaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaag
 ccagttacctcggaaaaagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgc
 aagcagcagattacgcgcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaag
 gtgagccagtgagttgattgcagtccagttacgctggagtcaagc
->m4092717 fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
+>pGBW-m4092717 fragment 5pUTR to orf1a stop | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -7464,7 +7464,7 @@ gtggccaatatggacaacttcttcgcccccgttttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgcc
 gctggcgattcaggttcatcatgccgtttgtgatggcttccatgtcggcagaatgcttaatgaattacaacagtactgcg
 atgagtggcagggcggggcgtaatttgatatcgagctcgcttggactcctgttgatagatccagtaatgacctcagaact
 ccatctggatttgttcagaacgctcggttgccgccgggcgttttttattggt
->m4092718 fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
+>pGBW-m4092718 fragment 5pUTR to orf1a mature peptide 3 | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded pG9m-2 backbone
 taatacgactcactatagattaaaggtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgt
 tctctaaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataacta
 attactgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgtccgtgttgcagccgatc
@@ -7598,7 +7598,7 @@ gaagtggtggcctaactacggctacactagaagaacagtatttggtatctgcgctctgctgaagccagttacctcggaaa
 aagagttggtagctcttgatccggcaaacaaaccaccgctggtagcggtggtttttttgtttgcaagcagcagattacgc
 gcagaaaaaaaggatctcaagaagatcctttgattttctaccgaagaaaggcccacccgtgaaggtgagccagtgagttg
 attgcagtccagttacgctggagtcaagc
->m4092719 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092719 fragment of orf1ab 3pUTR to viral genome 3pUTR with tIIs restriction sites removed with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -7733,7 +7733,7 @@ gacggtcaaaagcctccggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagc
 gatatctagagaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattg
 ttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaac
 tcacattaattgcgttaagc
->m4092720 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
+>pGBW-m4092720 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs with 5 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -7858,7 +7858,7 @@ gcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtgatggcttccat
 gtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcgagctcgcttg
 gactcctgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccgccgggcgttt
 tttattggt
->m4092721 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
+>pGBW-m4092721 fragment of orf1ab 3pUTR to viral genome 3pUTR with inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail| Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding p15A Kan | from m1954452
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -7993,7 +7993,7 @@ gacggtcaaaagcctccggtcggaggcttttgactttctgctatggaggtcaggtatgatttaaatggtcagtattgagc
 gatatctagagaattcgtcagcggaagagccagccaagcttggcgtaatcatggtcatagctgtttcctgtgtgaaattg
 ttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatgagtgagctaac
 tcacattaattgcgttaagc
->m4092722 fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
+>pGBW-m4092722 fragment of orf1ab 3pUTR to viral genome 3pUTR with 15 base polyA tail | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | wt encoded ori-013 - marker | cmR
 taatacgactcactatagacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatctta
 caaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttattaccctgacaaagttttcagatcc
 tcagttttacattcaactcaggacttgttcttacctttcttttccaatgttacttggttccatgctatacatgtctctgg
@@ -8118,7 +8118,7 @@ ttcaccatgggcaaatattatacgcaaggcgacaaggtgctgatgccgctggcgattcaggttcatcatgccgtttgtga
 tggcttccatgtcggcagaatgcttaatgaattacaacagtactgcgatgagtggcagggcggggcgtaatttgatatcg
 agctcgcttggactcctgttgatagatccagtaatgacctcagaactccatctggatttgttcagaacgctcggttgccg
 ccgggcgttttttattggt
->m4105606 F1-3 [:4904] pUC19 EcoRI NEBuilder polished
+>pGBW-m4105606 F1-3 [:4904] pUC19 EcoRI NEBuilder polished
 cgagctcggtacccggggatcctctagagtcgacctgcaggcatgcaagcttggcgtaatcatggtcatagctgtttcct
 gtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatg
 agtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaat
@@ -8215,7 +8215,7 @@ aagaagctgctcggtatatgagatctctcaaagtgccagctacagtttctgtttcttcacctgatgctgttacagcgtat
 aatggttatcttacttcttcttctaaaacacctgaagaacattttattgaaaccatctcacttgctggttcctataaaga
 ttggtcctattctggacaatctacacaactaggtatagaatttcttaagagaggtgataaaagtgtatattacactagta
 atcctaccacattccacctagctagcataaccccttggggcctctaaacgggtcttgaggggttttttg
->m4105607 F8-12WW [11108:19300] pUC19 EcoRI NEBuilder polished
+>pGBW-m4105607 F8-12WW [11108:19300] pUC19 EcoRI NEBuilder polished
 cgagctcggtacccggggatcctctagagtcgacctgcaggcatgcaagcttggcgtaatcatggtcatagctgtttcct
 gtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatg
 agtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaat
@@ -8353,7 +8353,7 @@ gctattaagtgtgtacctcaagctgatgtagaatggaagttctatgatgcacagccttgtagtgacaaagcttataaaat
 agaagaattattctattcttatgccacacattctgacaaattcacagatggtgtatgcctattttggaattgcaatgtcg
 atagatatcctgctaattccattgtttgtagatttgacactagagtgctatctaaccttaacttgcctggttgtgatggt
 ggcagtttgtatgctagcataaccccttggggcctctaaacgggtcttgaggggttttttg
->m4105609 SARS-CoV-2 [1:11292] pUC19 EcoRI NEBuilder polished
+>pGBW-m4105609 SARS-CoV-2 [1:11292] pUC19 EcoRI NEBuilder polished
 cgagctcggtacccggggatcctctagagtcgacctgcaggcatgcaagcttggcgtaatcatggtcatagctgtttcct
 gtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatg
 agtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaat
@@ -8530,7 +8530,7 @@ aatggtctttgttcttttttttgtatgaaaatgcctttttaccttttgctatgggtattattgctatgtctgcttttgca
 atgatgtttgtcaaacataagcatgcatttctctgtttgtttttgttaccttctcttgccactgtagcttattttaatat
 ggtctatatgcctgctagttgggtgatgcgtattatgacatggttggatatggttgatactagtttgtctggctagcata
 accccttggggcctctaaacgggtcttgaggggttttttg
->m4105610 SARS-CoV-2 S pUC19 EcoRI NEBuilder polished
+>pGBW-m4105610 SARS-CoV-2 S pUC19 EcoRI NEBuilder polished
 cgagctcggtacccggggatcctctagagtcgacctgcaggcatgcaagcttggcgtaatcatggtcatagctgtttcct
 gtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatg
 agtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaat
@@ -8614,7 +8614,7 @@ gcagtatataaaatggccatggtacatttggctaggttttatagctggcttgattgccatagtaatggtgacaattatgc
 tttgctgtatgaccagttgctgtagttgtctcaagggctgttgttcttgtggatcctgctgcaaatttgatgaagacgac
 tctgagccagtgctcaaaggagtcaaattacattacacataactagcataaccccttggggcctctaaacgggtcttgag
 gggttttttg
->m4105611 SARS-CoV-2 [11108:21562] pUC19 EcoRI NEBuilder polished
+>pGBW-m4105611 SARS-CoV-2 [11108:21562] pUC19 EcoRI NEBuilder polished
 cgagctcggtacccggggatcctctagagtcgacctgcaggcatgcaagcttggcgtaatcatggtcatagctgtttcct
 gtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatg
 agtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaat
@@ -8781,7 +8781,7 @@ ttcagttgtcttcctattctttatttgacatgagtaaatttccccttaaattaaggggtactgctgttatgtctttaaaa
 gaaggtcaaatcaatgatatgattttatctcttcttagtaaaggtagacttataattagagaaaacaacagagttgttat
 ttctagtgatgttcttgttaacaactaaacgaacactagcataaccccttggggcctctaaacgggtcttgaggggtttt
 ttg
->m4105612 F4-7 [4709:11292] pUC19 EcoRI NEBuilder polished
+>pGBW-m4105612 F4-7 [4709:11292] pUC19 EcoRI NEBuilder polished
 cgagctcggtacccggggatcctctagagtcgacctgcaggcatgcaagcttggcgtaatcatggtcatagctgtttcct
 gtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatg
 agtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaat
@@ -8899,7 +8899,7 @@ tccagagtactcaatggtctttgttcttttttttgtatgaaaatgcctttttaccttttgctatgggtattattgctatg
 tctgcttttgcaatgatgtttgtcaaacataagcatgcatttctctgtttgtttttgttaccttctcttgccactgtagc
 ttattttaatatggtctatatgcctgctagttgggtgatgcgtattatgacatggttggatatggttgatactagtttgt
 ctggctagcataaccccttggggcctctaaacgggtcttgaggggttttttg
->m4105633 SARS-CoV-2 [21556:~-10] pUC19 EcoRI NEBuilder polished
+>pGBW-m4105633 SARS-CoV-2 [21556:~-10] pUC19 EcoRI NEBuilder polished
 cgagctcggtacccggggatcctctagagtcgacctgcaggcatgcaagcttggcgtaatcatggtcatagctgtttcct
 gtgtgaaattgttatccgctcacaattccacacaacatacgagccggaagcataaagtgtaaagcctggggtgcctaatg
 agtgagctaactcacattaattgcgttgcgctcactgcccgctttccagtcgggaaacctgtcgtgccagctgcattaat

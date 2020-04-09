@@ -1,542 +1,542 @@
-m4046725 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1779	122	80	81
-m4046726 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2652	2054	80	81
-m4046727 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2559	4861	80	81
-m4046728 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1956	7582	80	81
-m4046729 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1959	9684	80	81
-m4046730 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1959	11789	80	81
-m4046731 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3642	13901	80	81
-m4046732 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2097	17710	80	81
-m4046733 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2391	19962	80	81
-m4046734 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2772	22513	80	81
-m4046735 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2097	25441	80	81
-m4046736 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2094	27688	80	81
-m4046737 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2325	29930	80	81
-m4046738 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3228	32408	80	81
-m4046739 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2403	35799	80	81
-m4046740 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2766	38361	80	81
-m4046741 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2598	41285	80	81
-m4046742 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1773	44038	80	81
-m4046743 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2094	45964	80	81
-m4046744 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1914	48208	80	81
-m4046745 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2994	50268	80	81
-m4046746 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1839	53428	80	81
-m4046747 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2646	55418	80	81
-m4046748 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2079	58220	80	81
-m4046749 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1767	60455	80	81
-m4046750 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2562	62367	80	81
-m4046751 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2556	65092	80	81
-m4046752 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1773	67803	80	81
-m4046753 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1773	69729	80	81
-m4046754 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2640	71653	80	81
-m4046755 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3654	74448	80	81
-m4046756 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2094	78278	80	81
-m4046757 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4524	80527	80	81
-m4046758 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5553	85229	80	81
-m4046759 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3648	90975	80	81
-m4046760 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3531	94797	80	81
-m4046761 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1767	98496	80	81
-m4046762 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3231	100407	80	81
-m4046763 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2397	103802	80	81
-m4046764 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2622	106359	80	81
-m4046765 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2559	109135	80	81
-m4046766 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3537	111856	80	81
-m4046767 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1920	115560	80	81
-m4046768 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1950	117632	80	81
-m4046769 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2994	119729	80	81
-m4046770 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2268	122891	80	81
-m4046771 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2649	125309	80	81
-m4046772 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2100	128114	80	81
-m4046773 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2772	130364	80	81
-m4046774 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4530	133294	80	81
-m4046775 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2628	138003	80	81
-m4046776 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2397	140794	80	81
-m4046777 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1845	143344	80	81
-m4046778 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2334	145335	80	81
-m4046779 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2652	147822	80	81
-m4046780 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2139	150636	80	81
-m4046781 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2652	152924	80	81
-m4046782 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2271	155731	80	81
-m4046783 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2556	158161	80	81
-m4046784 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1917	160870	80	81
-m4046785 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2988	162941	80	81
-m4046786 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1977	166090	80	81
-m4046787 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2073	168214	80	81
-m4046788 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2322	170443	80	81
-m4046789 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2397	172925	80	81
-m4046790 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2328	175475	80	81
-m4046791 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2628	177963	80	81
-m4046792 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2655	180745	80	81
-m4046793 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2328	183556	80	81
-m4046794 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2982	186042	80	81
-m4046795 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2622	189190	80	81
-m4046796 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1845	191975	80	81
-m4046797 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2262	193972	80	81
-m4046798 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3234	196385	80	81
-m4046799 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4518	199788	80	81
-m4046800 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2550	204491	80	81
-m4046801 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5556	207195	80	81
-m4046802 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4527	212942	80	81
-m4046803 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1914	217656	80	81
-m4046804 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2328	219724	80	81
-m4046805 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2778	222204	80	81
-m4046806 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2391	225145	80	81
-m4046807 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2988	227689	80	81
-m4046808 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3321	230837	80	81
-m4046809 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2616	234328	80	81
-m4046810 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2991	237098	80	81
-m4046811 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2100	240249	80	81
-m4046812 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2145	242506	80	81
-m4046813 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3531	244808	80	81
-m4046814 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1950	248512	80	81
-m4046815 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3651	250608	80	81
-m4046816 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2628	254428	80	81
-m4046817 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2400	257210	80	81
-m4046818 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2145	259763	80	81
-m4046819 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3234	262065	80	81
-m4046820 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2094	265470	80	81
-m4046821 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2274	267713	80	81
-m4046822 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2658	270138	80	81
-m4046823 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2634	272952	80	81
-m4046824 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2622	275742	80	81
-m4046825 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2610	278519	80	81
-m4046826 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2316	281290	80	81
-m4046827 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2625	283756	80	81
-m4046828 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5544	286542	80	81
-m4046829 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1770	292277	80	81
-m4046830 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7563	294193	80	81
-m4046831 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4530	301973	80	81
-m4046832 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1983	306690	80	81
-m4046833 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2067	308826	80	81
-m4046834 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2331	311040	80	81
-m4046835 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3315	313524	80	81
-m4046836 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2991	317002	80	81
-m4046837 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1863	320152	80	81
-m4046838 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2775	322160	80	81
-m4046839 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3309	325100	80	81
-m4046840 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2151	328581	80	81
-m4046841 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3537	330882	80	81
-m4046842 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1980	334585	80	81
-m4046843 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2268	336713	80	81
-m4046844 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2073	339133	80	81
-m4046845 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1956	341355	80	81
-m4046846 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4533	343457	80	81
-m4046847 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1866	348169	80	81
-m4046848 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3642	350189	80	81
-m4046849 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7563	354007	80	81
-m4046850 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2067	361788	80	81
-m4046851 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3540	364002	80	81
-m4046852 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2322	367715	80	81
-m4046853 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2277	370189	80	81
-m4046854 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2265	372623	80	81
-m4046855 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1914	375047	80	81
-m4046856 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2556	377108	80	81
-m4046857 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3315	379818	80	81
-m4046858 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2631	383296	80	81
-m4046859 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1854	386088	80	81
-m4046860 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2097	388087	80	81
-m4046861 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2088	390339	80	81
-m4046862 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1860	392577	80	81
-m4046863 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5550	394591	80	81
-m4046864 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3318	400332	80	81
-m4046865 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3303	403820	80	81
-m4046866 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1962	407287	80	81
-m4046867 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2151	409397	80	81
-m4046868 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3645	411696	80	81
-m4046869 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2070	415508	80	81
-m4046870 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3237	417725	80	81
-m4046871 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2145	421131	80	81
-m4046872 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1860	423426	80	81
-m4046873 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1860	425440	80	81
-m4046874 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2604	427447	80	81
-m4046875 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2766	430214	80	81
-m4046876 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7575	433137	80	81
-m4046877 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3240	440929	80	81
-m4046878 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3315	444340	80	81
-m4046879 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3636	447825	80	81
-m4046880 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3228	451635	80	81
-m4046881 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7566	455025	80	81
-m4046882 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2562	462808	80	81
-m4046883 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7569	465526	80	81
-m4046884 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7557	473318	80	81
-m4046885 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2097	481091	80	81
-m4046886 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2274	483336	80	81
-m4046887 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5544	485767	80	81
-m4046888 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3234	491504	80	81
-m4046889 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2100	494901	80	81
-m4046890 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1908	497156	80	81
-m4046891 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2088	499216	80	81
-m4046892 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2604	501461	80	81
-m4046893 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2094	504221	80	81
-m4046894 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2154	506463	80	81
-m4046895 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2646	508774	80	81
-m4046896 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2271	511577	80	81
-m4046897 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1848	513998	80	81
-m4046898 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3534	515991	80	81
-m4046899 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1908	519698	80	81
-m4046900 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2100	521752	80	81
-m4046901 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2088	524007	80	81
-m4046902 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3309	526245	80	81
-m4046903 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1848	529717	80	81
-m4046904 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2397	531712	80	81
-m4046905 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1989	534261	80	81
-m4046906 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3642	536398	80	81
-m4046907 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3648	540208	80	81
-m4046908 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2403	544024	80	81
-m4046909 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5556	546580	80	81
-m4046910 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3228	552336	80	81
-m4046911 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3543	555727	80	81
-m4046912 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1851	559437	80	81
-m4046913 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1920	561434	80	81
-m4046914 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2067	563508	80	81
-m4046915 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1863	565722	80	81
-m4046916 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2598	567737	80	81
-m4046917 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1860	570498	80	81
-m4046918 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3537	572504	80	81
-m4046919 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1977	576216	80	81
-m4046920 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7563	578346	80	81
-m4046921 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3309	586132	80	81
-m4046922 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2646	589606	80	81
-m4046923 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3525	592414	80	81
-m4046924 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2094	596107	80	81
-m4046925 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5550	598358	80	81
-m4046926 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2400	604099	80	81
-m4046927 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2088	606657	80	81
-m4046928 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3222	608900	80	81
-m4046929 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2094	612293	80	81
-m4046930 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3312	614535	80	81
-m4046931 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5550	618012	80	81
-m4046932 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2061	623760	80	81
-m4046933 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1971	625975	80	81
-m4046934 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2556	628094	80	81
-m4046935 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1962	630804	80	81
-m4046936 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2607	632912	80	81
-m4046937 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3531	635675	80	81
-m4046938 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4530	639381	80	81
-m4046939 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2988	644091	80	81
-m4046940 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4524	647247	80	81
-m4046941 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1866	651950	80	81
-m4046942 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2592	653968	80	81
-m4046943 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1983	656716	80	81
-m4046944 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2148	658845	80	81
-m4046945 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1956	661150	80	81
-m4046946 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2601	663252	80	81
-m4046947 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7569	666016	80	81
-m4046948 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2760	673808	80	81
-m4046949 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1956	676726	80	81
-m4046950 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1839	678835	80	81
-m4046951 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2094	680820	80	81
-m4046952 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5550	683064	80	81
-m4046953 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1854	688812	80	81
-m4046954 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1845	690820	80	81
-m4046955 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4524	692812	80	81
-m4046956 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1983	697515	80	81
-m4046957 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2271	699653	80	81
-m4046958 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2151	702075	80	81
-m4046959 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2550	704381	80	81
-m4046960 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1776	707084	80	81
-m4046961 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2766	709006	80	81
-m4046962 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1851	711929	80	81
-m4046963 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2322	713927	80	81
-m4046964 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7572	716400	80	81
-m4046965 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2073	724197	80	81
-m4046966 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2598	726426	80	81
-m4046967 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1845	729180	80	81
-m4046968 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2157	731171	80	81
-m4046969 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2076	733476	80	81
-m4046970 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5553	735699	80	81
-m4046971 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1767	741450	80	81
-m4046972 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2769	743361	80	81
-m4046973 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2604	746287	80	81
-m4046974 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1761	749052	80	81
-m4046975 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1986	750957	80	81
-m4046976 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4536	753090	80	81
-m4046977 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2982	757811	80	81
-m4046978 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7569	760953	80	81
-m4046979 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1977	768745	80	81
-m4046980 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1914	770870	80	81
-m4046981 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2772	772930	80	81
-m4046982 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1917	775858	80	81
-m4046983 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2988	777929	80	81
-m4046984 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3648	781085	80	81
-m4095418 Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	2070	784875	80	81
-m4095419 Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	2070	787067	80	81
-m4095420 Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	2679	789259	80	81
-m4095421 Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	2679	792068	80	81
-m4136408 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4697	794904	80	81
-m4136429 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	5018	799770	80	81
-m4136429 	5018	804862	80	81
-m4136430 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	5417	810053	80	81
-m4136430 	5417	815549	80	81
-m4136431 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	5822	821144	80	81
-m4136431 	5822	827050	80	81
-m4136453 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	4385	833055	80	81
-m4136454 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4427	837605	80	81
-m4136455 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	10403	842198	80	81
-m4136456 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9998	852842	80	81
-m4136457 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4826	863075	80	81
-m4136458 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7580	868072	80	81
-m4136459 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9599	875857	80	81
-m4136460 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	4790	885686	80	81
-m4136461 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	8384	890646	80	81
-m4136462 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	5231	899245	80	81
-m4136463 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3986	904652	80	81
-m4136464 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7979	908798	80	81
-m4136530 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4370	916993	80	81
-m4136531 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3989	921534	80	81
-m4136532 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5369	925690	80	81
-m4136533 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7271	931244	80	81
-m4136534 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4331	938729	80	81
-m4136535 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3992	943232	80	81
-m4136536 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3563	947390	80	81
-m4136537 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4118	951115	80	81
-m4136538 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3554	955408	80	81
-m4136539 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3623	959130	80	81
-m4136540 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4706	962915	80	81
-m4136541 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5030	967805	80	81
-m4136542 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4475	973021	80	81
-m4136543 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4337	977675	80	81
-m4136544 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4367	982184	80	81
-m4136545 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3809	986724	80	81
-m4136546 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3812	990697	80	81
-m4136547 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3866	994674	80	81
-m4136548 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3629	998714	80	81
-m4136549 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3782	1002507	80	81
-m4136550 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4106	1006460	80	81
-m4136551 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9284	1010743	80	81
-m4136552 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3803	1020267	80	81
-m4136553 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5024	1024236	80	81
-m4136554 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7268	1029439	80	81
-m4136555 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3704	1036915	80	81
-m4136556 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3794	1040783	80	81
-m4136557 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3785	1044741	80	81
-m4136558 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3665	1048697	80	81
-m4136559 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4337	1052533	80	81
-m4136560 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4706	1057041	80	81
-m4136561 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3980	1061929	80	81
-m4136562 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4493	1066076	80	81
-m4136563 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4319	1070744	80	81
-m4136564 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5252	1075234	80	81
-m4136565 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3692	1080677	80	81
-m4136566 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6245	1084533	80	81
-m4136567 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5357	1090975	80	81
-m4136568 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7259	1096522	80	81
-m4136569 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3488	1103990	80	81
-m4136570 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3872	1107639	80	81
-m4136571 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3776	1111683	80	81
-m4136572 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4037	1115630	80	81
-m4136573 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4364	1119834	80	81
-m4136574 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3791	1124369	80	81
-m4136575 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5246	1128326	80	81
-m4136576 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4703	1133756	80	81
-m4136577 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3671	1138643	80	81
-m4136578 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3809	1142478	80	81
-m4136579 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3560	1146460	80	81
-m4136580 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3482	1150190	80	81
-m4136581 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3812	1153832	80	81
-m4136582 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5351	1157815	80	81
-m4136583 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3698	1163351	80	81
-m4136584 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3632	1167212	80	81
-m4136585 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3494	1171007	80	81
-m4136586 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3782	1174670	80	81
-m4136587 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3701	1178616	80	81
-m4136588 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3569	1182487	80	81
-m4136589 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3482	1186224	80	81
-m4136590 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7268	1189866	80	81
-m4136591 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4709	1197342	80	81
-m4136592 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3803	1202233	80	81
-m4136593 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4277	1206201	80	81
-m4136594 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5240	1210655	80	81
-m4136595 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4703	1216079	80	81
-m4136596 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3989	1220958	80	81
-m4136597 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3575	1225115	80	81
-m4136598 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3629	1228853	80	81
-m4136599 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5033	1232644	80	81
-m4136600 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6248	1237856	80	81
-m4136601 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4361	1244308	80	81
-m4136602 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3575	1248849	80	81
-m4136603 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7265	1252587	80	81
-m4136604 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5255	1260059	80	81
-m4136605 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4106	1265503	80	81
-m4136606 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3986	1269777	80	81
-m4136607 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3986	1273938	80	81
-m4136608 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3809	1278099	80	81
-m4136609 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3860	1282074	80	81
-m4136610 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4343	1286101	80	81
-m4136611 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3575	1290624	80	81
-m4136612 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9272	1294367	80	81
-m4136613 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5246	1303880	80	81
-m4136614 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3485	1309308	80	81
-m4136615 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4274	1312953	80	81
-m4136616 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5030	1317399	80	81
-m4136617 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3692	1322615	80	81
-m4136618 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6251	1326471	80	81
-m4136619 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3674	1332917	80	81
-m4136620 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3809	1336755	80	81
-m4136621 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6233	1340735	80	81
-m4136622 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3854	1347169	80	81
-m4136623 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6239	1351190	80	81
-m4136624 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4325	1357624	80	81
-m4136625 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3986	1362122	80	81
-m4136626 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4115	1366274	80	81
-m4136627 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3488	1370558	80	81
-m4136628 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4481	1374213	80	81
-m4136629 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4049	1378868	80	81
-m4136630 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3581	1383085	80	81
-m4136631 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4043	1386836	80	81
-m4136632 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4118	1391047	80	81
-m4136633 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3671	1395335	80	81
-m4136634 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4481	1399177	80	81
-m4136635 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3788	1403832	80	81
-m4136636 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4937	1407791	80	81
-m4136637 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3623	1412913	80	81
-m4136638 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7271	1416699	80	81
-m4136639 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4946	1424177	80	81
-m4136640 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4112	1429303	80	81
-m4136641 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4040	1433583	80	81
-m4136642 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5252	1437792	80	81
-m4136643 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4313	1443233	80	81
-m4136644 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3677	1447717	80	81
-m4136645 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6239	1451563	80	81
-m4136646 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4349	1457997	80	81
-m4136647 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4943	1462526	80	81
-m4136648 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3803	1467654	80	81
-m4136649 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4943	1471623	80	81
-m4136650 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4265	1476751	80	81
-m4136651 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4319	1481195	80	81
-m4136652 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6245	1485686	80	81
-m4136653 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5246	1492133	80	81
-m4136654 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9278	1497570	80	81
-m4136655 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9281	1507080	80	81
-m4136656 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3869	1516594	80	81
-m4136657 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4487	1520637	80	81
-m4136658 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3809	1525306	80	81
-m4136659 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4046	1529279	80	81
-m4136660 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5249	1533492	80	81
-m4136661 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4949	1538932	80	81
-m4136662 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5363	1544060	80	81
-m4136663 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4271	1549609	80	81
-m4136664 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4313	1554052	80	81
-m4136665 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4490	1558535	80	81
-m4136666 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4487	1563199	80	81
-m4136667 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9278	1567861	80	81
-m4136668 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3866	1577373	80	81
-m4136669 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4037	1581406	80	81
-m4136670 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4307	1585617	80	81
-m4136671 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4043	1590096	80	81
-m4136672 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5030	1594307	80	81
-m4136673 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3581	1599517	80	81
-m4136674 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4112	1603268	80	81
-m4136675 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3983	1607550	80	81
-m4136676 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4346	1611699	80	81
-m4136677 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4955	1616217	80	81
-m4136678 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3809	1621359	80	81
-m4136679 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4265	1625339	80	81
-m4136680 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7265	1629776	80	81
-m4136681 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3674	1637248	80	81
-m4136682 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3491	1641084	80	81
-m4136683 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5366	1644735	80	81
-m4136684 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5252	1650294	80	81
-m4136685 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4949	1655729	80	81
-m4136686 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3671	1660858	80	81
-m4136687 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3482	1664693	80	81
-m4136688 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4271	1668344	80	81
-m4136689 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4952	1672785	80	81
-m4136690 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3977	1677922	80	81
-m4136691 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7265	1682074	80	81
-m4136692 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4709	1689547	80	81
-m4136693 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3488	1694440	80	81
-m4136694 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4031	1698095	80	81
-m4136695 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3863	1702293	80	81
-m4136696 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3563	1706321	80	81
-m4136697 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9290	1710046	80	81
-m4136698 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5363	1719571	80	81
-m4136699 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3578	1725118	80	81
-m4136700 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6245	1728866	80	81
-m4136701 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3788	1735308	80	81
-m4136702 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3476	1739267	80	81
-m4136703 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3629	1742905	80	81
-m4136704 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4340	1746696	80	81
-m4136705 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3815	1751208	80	81
-m4136706 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4313	1755196	80	81
-m4136707 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3560	1759688	80	81
-m4136708 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3698	1763418	80	81
-m4136709 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3635	1767280	80	81
-m4136710 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4037	1771086	80	81
-m4136711 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7265	1775299	80	81
-m4136712 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7259	1782778	80	81
-m4136713 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3578	1790244	80	81
-m4136714 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3812	1793983	80	81
-m4136715 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3695	1797959	80	81
-m4136716 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5360	1801817	80	81
-m4136717 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3677	1807361	80	81
-m4136718 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4343	1811209	80	81
-m4136719 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3635	1815724	80	81
-m4136720 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3692	1819523	80	81
-m4136721 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4484	1823378	80	81
-m4136722 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4367	1828037	80	81
-m4136723 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3698	1832576	80	81
-m4136724 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6239	1836446	80	81
-m4136725 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5357	1842888	80	81
-m4136726 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4277	1848429	80	81
-m4136727 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4115	1852876	80	81
-m4136728 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3575	1857161	80	81
-m4136729 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3803	1860904	80	81
-m4136730 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4361	1864878	80	81
-m4136731 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4043	1869411	80	81
-m4136732 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4361	1873623	80	81
-m4136733 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3860	1878162	80	81
-m4136734 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4112	1882189	80	81
-m4136735 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3812	1886469	80	81
-m4136736 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4343	1890446	80	81
-m4136737 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9287	1894960	80	81
-m4136738 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4355	1904487	80	81
-m4136739 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4112	1909022	80	81
-m4136740 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4367	1913311	80	81
-m4136741 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4271	1917858	80	81
-m4136742 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3782	1922306	80	81
-m4136743 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3815	1926253	80	81
-m4136744 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4703	1930241	80	81
-m4136745 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5357	1935126	80	81
-m4136746 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4373	1940667	80	81
-m4136747 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4949	1945213	80	81
-m4136748 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4319	1950341	80	81
-m4136749 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3815	1954831	80	81
-m4136750 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4487	1958812	80	81
-m4136751 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3809	1963474	80	81
-m4136752 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4337	1967449	80	81
-m4136753 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5258	1971958	80	81
-m4136754 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3671	1977407	80	81
-m4136755 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3629	1981249	80	81
-m4136756 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3686	1985047	80	81
-m4136757 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3983	1988905	80	81
-m4136758 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3632	1993054	80	81
-m4136759 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3860	1996857	80	81
-m4136760 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5024	2000889	80	81
-m4136761 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9284	2006093	80	81
-m4136762 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4943	2015617	80	81
-m4136763 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3809	2020747	80	81
-m4136764 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4316	2024720	80	81
-m4136765 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3569	2029213	80	81
-m4136766 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3866	2032952	80	81
-m4136767 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5363	2036992	80	81
-m4136768 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3566	2042540	80	81
-m4136769 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3560	2046269	80	81
-m4136770 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4697	2049997	80	81
-m4136771 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3665	2054876	80	81
-m4136772 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4481	2058705	80	81
-m4136773 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3560	2063361	80	81
-m4136774 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5018	2067089	80	81
-m4136775 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3815	2072287	80	81
-m4136776 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3554	2076273	80	81
-m4136777 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5036	2079989	80	81
-m4136778 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9284	2085206	80	81
-m4136779 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5027	2094723	80	81
-m4136780 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4274	2099929	80	81
-m4136781 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3788	2104382	80	81
-m4136782 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3566	2108335	80	81
-m4136783 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4703	2112071	80	81
-m4136784 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6242	2116949	80	81
-m4136785 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5024	2123395	80	81
-m4136786 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9278	2128605	80	81
-m4136787 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4271	2138117	80	81
-m4136788 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4322	2142558	80	81
+pGBW-m4046725 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1779	127	80	81
+pGBW-m4046726 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2652	2064	80	81
+pGBW-m4046727 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2559	4876	80	81
+pGBW-m4046728 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1956	7602	80	81
+pGBW-m4046729 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1959	9709	80	81
+pGBW-m4046730 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1959	11819	80	81
+pGBW-m4046731 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3642	13936	80	81
+pGBW-m4046732 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2097	17750	80	81
+pGBW-m4046733 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2391	20007	80	81
+pGBW-m4046734 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2772	22563	80	81
+pGBW-m4046735 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2097	25496	80	81
+pGBW-m4046736 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2094	27748	80	81
+pGBW-m4046737 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2325	29995	80	81
+pGBW-m4046738 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3228	32478	80	81
+pGBW-m4046739 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2403	35874	80	81
+pGBW-m4046740 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2766	38441	80	81
+pGBW-m4046741 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2598	41370	80	81
+pGBW-m4046742 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1773	44128	80	81
+pGBW-m4046743 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2094	46059	80	81
+pGBW-m4046744 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1914	48308	80	81
+pGBW-m4046745 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2994	50373	80	81
+pGBW-m4046746 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1839	53538	80	81
+pGBW-m4046747 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2646	55533	80	81
+pGBW-m4046748 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2079	58340	80	81
+pGBW-m4046749 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1767	60580	80	81
+pGBW-m4046750 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2562	62497	80	81
+pGBW-m4046751 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2556	65227	80	81
+pGBW-m4046752 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1773	67943	80	81
+pGBW-m4046753 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1773	69874	80	81
+pGBW-m4046754 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2640	71803	80	81
+pGBW-m4046755 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3654	74603	80	81
+pGBW-m4046756 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2094	78438	80	81
+pGBW-m4046757 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4524	80692	80	81
+pGBW-m4046758 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5553	85399	80	81
+pGBW-m4046759 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3648	91150	80	81
+pGBW-m4046760 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3531	94977	80	81
+pGBW-m4046761 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1767	98681	80	81
+pGBW-m4046762 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3231	100597	80	81
+pGBW-m4046763 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2397	103997	80	81
+pGBW-m4046764 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2622	106559	80	81
+pGBW-m4046765 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2559	109340	80	81
+pGBW-m4046766 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3537	112066	80	81
+pGBW-m4046767 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1920	115775	80	81
+pGBW-m4046768 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1950	117852	80	81
+pGBW-m4046769 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2994	119954	80	81
+pGBW-m4046770 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2268	123121	80	81
+pGBW-m4046771 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2649	125544	80	81
+pGBW-m4046772 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2100	128354	80	81
+pGBW-m4046773 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2772	130609	80	81
+pGBW-m4046774 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4530	133544	80	81
+pGBW-m4046775 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2628	138258	80	81
+pGBW-m4046776 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2397	141054	80	81
+pGBW-m4046777 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1845	143609	80	81
+pGBW-m4046778 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2334	145605	80	81
+pGBW-m4046779 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2652	148097	80	81
+pGBW-m4046780 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2139	150916	80	81
+pGBW-m4046781 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2652	153209	80	81
+pGBW-m4046782 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2271	156021	80	81
+pGBW-m4046783 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2556	158456	80	81
+pGBW-m4046784 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1917	161170	80	81
+pGBW-m4046785 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2988	163246	80	81
+pGBW-m4046786 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1977	166400	80	81
+pGBW-m4046787 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2073	168529	80	81
+pGBW-m4046788 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2322	170763	80	81
+pGBW-m4046789 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2397	173250	80	81
+pGBW-m4046790 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2328	175805	80	81
+pGBW-m4046791 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2628	178298	80	81
+pGBW-m4046792 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2655	181085	80	81
+pGBW-m4046793 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2328	183901	80	81
+pGBW-m4046794 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2982	186392	80	81
+pGBW-m4046795 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2622	189545	80	81
+pGBW-m4046796 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1845	192335	80	81
+pGBW-m4046797 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2262	194337	80	81
+pGBW-m4046798 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3234	196755	80	81
+pGBW-m4046799 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4518	200163	80	81
+pGBW-m4046800 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2550	204871	80	81
+pGBW-m4046801 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5556	207580	80	81
+pGBW-m4046802 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4527	213332	80	81
+pGBW-m4046803 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1914	218051	80	81
+pGBW-m4046804 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2328	220124	80	81
+pGBW-m4046805 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2778	222609	80	81
+pGBW-m4046806 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2391	225555	80	81
+pGBW-m4046807 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2988	228104	80	81
+pGBW-m4046808 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3321	231257	80	81
+pGBW-m4046809 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2616	234753	80	81
+pGBW-m4046810 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2991	237528	80	81
+pGBW-m4046811 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2100	240684	80	81
+pGBW-m4046812 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2145	242946	80	81
+pGBW-m4046813 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3531	245253	80	81
+pGBW-m4046814 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1950	248962	80	81
+pGBW-m4046815 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3651	251063	80	81
+pGBW-m4046816 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2628	254888	80	81
+pGBW-m4046817 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2400	257675	80	81
+pGBW-m4046818 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2145	260233	80	81
+pGBW-m4046819 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3234	262540	80	81
+pGBW-m4046820 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2094	265950	80	81
+pGBW-m4046821 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2274	268198	80	81
+pGBW-m4046822 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2658	270628	80	81
+pGBW-m4046823 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2634	273447	80	81
+pGBW-m4046824 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2622	276242	80	81
+pGBW-m4046825 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2610	279024	80	81
+pGBW-m4046826 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2316	281800	80	81
+pGBW-m4046827 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2625	284271	80	81
+pGBW-m4046828 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5544	287062	80	81
+pGBW-m4046829 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1770	292802	80	81
+pGBW-m4046830 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7563	294723	80	81
+pGBW-m4046831 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4530	302508	80	81
+pGBW-m4046832 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1983	307230	80	81
+pGBW-m4046833 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2067	309371	80	81
+pGBW-m4046834 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2331	311590	80	81
+pGBW-m4046835 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3315	314079	80	81
+pGBW-m4046836 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2991	317562	80	81
+pGBW-m4046837 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1863	320717	80	81
+pGBW-m4046838 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2775	322730	80	81
+pGBW-m4046839 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3309	325675	80	81
+pGBW-m4046840 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2151	329161	80	81
+pGBW-m4046841 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3537	331467	80	81
+pGBW-m4046842 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1980	335175	80	81
+pGBW-m4046843 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2268	337308	80	81
+pGBW-m4046844 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2073	339733	80	81
+pGBW-m4046845 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1956	341960	80	81
+pGBW-m4046846 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4533	344067	80	81
+pGBW-m4046847 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1866	348784	80	81
+pGBW-m4046848 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3642	350809	80	81
+pGBW-m4046849 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7563	354632	80	81
+pGBW-m4046850 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2067	362418	80	81
+pGBW-m4046851 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3540	364637	80	81
+pGBW-m4046852 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2322	368355	80	81
+pGBW-m4046853 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2277	370834	80	81
+pGBW-m4046854 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2265	373273	80	81
+pGBW-m4046855 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1914	375702	80	81
+pGBW-m4046856 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2556	377768	80	81
+pGBW-m4046857 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3315	380483	80	81
+pGBW-m4046858 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 ori-013 - marker | cmR	2631	383966	80	81
+pGBW-m4046859 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1854	386763	80	81
+pGBW-m4046860 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2097	388767	80	81
+pGBW-m4046861 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2088	391024	80	81
+pGBW-m4046862 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1860	393267	80	81
+pGBW-m4046863 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5550	395286	80	81
+pGBW-m4046864 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3318	401032	80	81
+pGBW-m4046865 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3303	404525	80	81
+pGBW-m4046866 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1962	407997	80	81
+pGBW-m4046867 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2151	410112	80	81
+pGBW-m4046868 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3645	412416	80	81
+pGBW-m4046869 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2070	416233	80	81
+pGBW-m4046870 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3237	418455	80	81
+pGBW-m4046871 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2145	421866	80	81
+pGBW-m4046872 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1860	424166	80	81
+pGBW-m4046873 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1860	426185	80	81
+pGBW-m4046874 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2604	428197	80	81
+pGBW-m4046875 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2766	430969	80	81
+pGBW-m4046876 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7575	433897	80	81
+pGBW-m4046877 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3240	441694	80	81
+pGBW-m4046878 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3315	445110	80	81
+pGBW-m4046879 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3636	448600	80	81
+pGBW-m4046880 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3228	452415	80	81
+pGBW-m4046881 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7566	455810	80	81
+pGBW-m4046882 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2562	463598	80	81
+pGBW-m4046883 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7569	466321	80	81
+pGBW-m4046884 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7557	474118	80	81
+pGBW-m4046885 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2097	481896	80	81
+pGBW-m4046886 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2274	484146	80	81
+pGBW-m4046887 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5544	486582	80	81
+pGBW-m4046888 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3234	492324	80	81
+pGBW-m4046889 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2100	495726	80	81
+pGBW-m4046890 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1908	497986	80	81
+pGBW-m4046891 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2088	500051	80	81
+pGBW-m4046892 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2604	502301	80	81
+pGBW-m4046893 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2094	505066	80	81
+pGBW-m4046894 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2154	507313	80	81
+pGBW-m4046895 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2646	509629	80	81
+pGBW-m4046896 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2271	512437	80	81
+pGBW-m4046897 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1848	514863	80	81
+pGBW-m4046898 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3534	516861	80	81
+pGBW-m4046899 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1908	520573	80	81
+pGBW-m4046900 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2100	522632	80	81
+pGBW-m4046901 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2088	524892	80	81
+pGBW-m4046902 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3309	527135	80	81
+pGBW-m4046903 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1848	530612	80	81
+pGBW-m4046904 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2397	532612	80	81
+pGBW-m4046905 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1989	535166	80	81
+pGBW-m4046906 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3642	537308	80	81
+pGBW-m4046907 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3648	541123	80	81
+pGBW-m4046908 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2403	544944	80	81
+pGBW-m4046909 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5556	547505	80	81
+pGBW-m4046910 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3228	553266	80	81
+pGBW-m4046911 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3543	556662	80	81
+pGBW-m4046912 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1851	560377	80	81
+pGBW-m4046913 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1920	562379	80	81
+pGBW-m4046914 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2067	564458	80	81
+pGBW-m4046915 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1863	566677	80	81
+pGBW-m4046916 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2598	568697	80	81
+pGBW-m4046917 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1860	571463	80	81
+pGBW-m4046918 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3537	573474	80	81
+pGBW-m4046919 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1977	577191	80	81
+pGBW-m4046920 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7563	579326	80	81
+pGBW-m4046921 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3309	587117	80	81
+pGBW-m4046922 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 ori-013 - marker | cmR	2646	590596	80	81
+pGBW-m4046923 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3525	593409	80	81
+pGBW-m4046924 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2094	597107	80	81
+pGBW-m4046925 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5550	599363	80	81
+pGBW-m4046926 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 ori-013 - marker | cmR	2400	605109	80	81
+pGBW-m4046927 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 ori-013 - marker | cmR	2088	607672	80	81
+pGBW-m4046928 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 ori-013 - marker | cmR	3222	609920	80	81
+pGBW-m4046929 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2094	613318	80	81
+pGBW-m4046930 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 ori-013 - marker | cmR	3312	615565	80	81
+pGBW-m4046931 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5550	619047	80	81
+pGBW-m4046932 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2061	624800	80	81
+pGBW-m4046933 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1971	627020	80	81
+pGBW-m4046934 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2556	629144	80	81
+pGBW-m4046935 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1962	631859	80	81
+pGBW-m4046936 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2607	633972	80	81
+pGBW-m4046937 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 ori-013 - marker | cmR	3531	636740	80	81
+pGBW-m4046938 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4530	640451	80	81
+pGBW-m4046939 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2988	645166	80	81
+pGBW-m4046940 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4524	648327	80	81
+pGBW-m4046941 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1866	653035	80	81
+pGBW-m4046942 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2592	655058	80	81
+pGBW-m4046943 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1983	657811	80	81
+pGBW-m4046944 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2148	659945	80	81
+pGBW-m4046945 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1956	662255	80	81
+pGBW-m4046946 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2601	664362	80	81
+pGBW-m4046947 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7569	667131	80	81
+pGBW-m4046948 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2760	674928	80	81
+pGBW-m4046949 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 ori-013 - marker | cmR	1956	677851	80	81
+pGBW-m4046950 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1839	679965	80	81
+pGBW-m4046951 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 ori-013 - marker | cmR	2094	681955	80	81
+pGBW-m4046952 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5550	684204	80	81
+pGBW-m4046953 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 ori-013 - marker | cmR	1854	689957	80	81
+pGBW-m4046954 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1845	691970	80	81
+pGBW-m4046955 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4524	693967	80	81
+pGBW-m4046956 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1983	698675	80	81
+pGBW-m4046957 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 ori-013 - marker | cmR	2271	700818	80	81
+pGBW-m4046958 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2151	703245	80	81
+pGBW-m4046959 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 ori-013 - marker | cmR	2550	705556	80	81
+pGBW-m4046960 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1776	708264	80	81
+pGBW-m4046961 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2766	710191	80	81
+pGBW-m4046962 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1851	713119	80	81
+pGBW-m4046963 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 ori-013 - marker | cmR	2322	715122	80	81
+pGBW-m4046964 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7572	717600	80	81
+pGBW-m4046965 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2073	725402	80	81
+pGBW-m4046966 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2598	727636	80	81
+pGBW-m4046967 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 ori-013 - marker | cmR	1845	730395	80	81
+pGBW-m4046968 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 ori-013 - marker | cmR	2157	732391	80	81
+pGBW-m4046969 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 ori-013 - marker | cmR	2076	734701	80	81
+pGBW-m4046970 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 ori-013 - marker | cmR	5553	736929	80	81
+pGBW-m4046971 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1767	742685	80	81
+pGBW-m4046972 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2769	744601	80	81
+pGBW-m4046973 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 ori-013 - marker | cmR	2604	747532	80	81
+pGBW-m4046974 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 ori-013 - marker | cmR	1761	750302	80	81
+pGBW-m4046975 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1986	752212	80	81
+pGBW-m4046976 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 ori-013 - marker | cmR	4536	754350	80	81
+pGBW-m4046977 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2982	759076	80	81
+pGBW-m4046978 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	7569	762223	80	81
+pGBW-m4046979 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 ori-013 - marker | cmR	1977	770020	80	81
+pGBW-m4046980 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1914	772150	80	81
+pGBW-m4046981 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 ori-013 - marker | cmR	2772	774215	80	81
+pGBW-m4046982 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 ori-013 - marker | cmR	1917	777148	80	81
+pGBW-m4046983 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 ori-013 - marker | cmR	2988	779224	80	81
+pGBW-m4046984 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 ori-013 - marker | cmR	3648	782385	80	81
+pGBW-m4095418 Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	2070	786180	80	81
+pGBW-m4095419 Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	2070	788377	80	81
+pGBW-m4095420 Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	2679	790574	80	81
+pGBW-m4095421 Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 ori-013 - marker | cmR	2679	793388	80	81
+pGBW-m4136408 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4697	796229	80	81
+pGBW-m4136429 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	5018	801100	80	81
+pGBW-m4136429 	5018	806197	80	81
+pGBW-m4136430 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	5417	811393	80	81
+pGBW-m4136430 	5417	816894	80	81
+pGBW-m4136431 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	5822	822494	80	81
+pGBW-m4136431 	5822	828405	80	81
+pGBW-m4136453 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	4385	834415	80	81
+pGBW-m4136454 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4427	838970	80	81
+pGBW-m4136455 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	10403	843568	80	81
+pGBW-m4136456 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9998	854217	80	81
+pGBW-m4136457 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4826	864455	80	81
+pGBW-m4136458 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7580	869457	80	81
+pGBW-m4136459 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9599	877247	80	81
+pGBW-m4136460 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	4790	887081	80	81
+pGBW-m4136461 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	8384	892046	80	81
+pGBW-m4136462 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	5231	900650	80	81
+pGBW-m4136463 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3986	906062	80	81
+pGBW-m4136464 B0040 inert spacer Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7979	910213	80	81
+pGBW-m4136530 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4370	918413	80	81
+pGBW-m4136531 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3989	922959	80	81
+pGBW-m4136532 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5369	927120	80	81
+pGBW-m4136533 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7271	932679	80	81
+pGBW-m4136534 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4331	940169	80	81
+pGBW-m4136535 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3992	944677	80	81
+pGBW-m4136536 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3563	948840	80	81
+pGBW-m4136537 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4118	952570	80	81
+pGBW-m4136538 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3554	956868	80	81
+pGBW-m4136539 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3623	960595	80	81
+pGBW-m4136540 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4706	964385	80	81
+pGBW-m4136541 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5030	969280	80	81
+pGBW-m4136542 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4475	974501	80	81
+pGBW-m4136543 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4337	979160	80	81
+pGBW-m4136544 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4367	983674	80	81
+pGBW-m4136545 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3809	988219	80	81
+pGBW-m4136546 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3812	992197	80	81
+pGBW-m4136547 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3866	996179	80	81
+pGBW-m4136548 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3629	1000224	80	81
+pGBW-m4136549 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3782	1004022	80	81
+pGBW-m4136550 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4106	1007980	80	81
+pGBW-m4136551 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9284	1012268	80	81
+pGBW-m4136552 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3803	1021797	80	81
+pGBW-m4136553 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5024	1025771	80	81
+pGBW-m4136554 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7268	1030979	80	81
+pGBW-m4136555 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3704	1038460	80	81
+pGBW-m4136556 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3794	1042333	80	81
+pGBW-m4136557 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3785	1046296	80	81
+pGBW-m4136558 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3665	1050257	80	81
+pGBW-m4136559 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4337	1054098	80	81
+pGBW-m4136560 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4706	1058611	80	81
+pGBW-m4136561 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3980	1063504	80	81
+pGBW-m4136562 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4493	1067656	80	81
+pGBW-m4136563 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4319	1072329	80	81
+pGBW-m4136564 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5252	1076824	80	81
+pGBW-m4136565 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3692	1082272	80	81
+pGBW-m4136566 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6245	1086133	80	81
+pGBW-m4136567 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5357	1092580	80	81
+pGBW-m4136568 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7259	1098132	80	81
+pGBW-m4136569 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3488	1105605	80	81
+pGBW-m4136570 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3872	1109259	80	81
+pGBW-m4136571 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3776	1113308	80	81
+pGBW-m4136572 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4037	1117260	80	81
+pGBW-m4136573 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4364	1121469	80	81
+pGBW-m4136574 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3791	1126009	80	81
+pGBW-m4136575 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5246	1129971	80	81
+pGBW-m4136576 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4703	1135406	80	81
+pGBW-m4136577 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3671	1140298	80	81
+pGBW-m4136578 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3809	1144138	80	81
+pGBW-m4136579 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3560	1148125	80	81
+pGBW-m4136580 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3482	1151860	80	81
+pGBW-m4136581 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3812	1155507	80	81
+pGBW-m4136582 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5351	1159495	80	81
+pGBW-m4136583 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3698	1165036	80	81
+pGBW-m4136584 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3632	1168902	80	81
+pGBW-m4136585 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3494	1172702	80	81
+pGBW-m4136586 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3782	1176370	80	81
+pGBW-m4136587 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3701	1180321	80	81
+pGBW-m4136588 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3569	1184197	80	81
+pGBW-m4136589 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3482	1187939	80	81
+pGBW-m4136590 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7268	1191586	80	81
+pGBW-m4136591 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4709	1199067	80	81
+pGBW-m4136592 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3803	1203963	80	81
+pGBW-m4136593 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4277	1207936	80	81
+pGBW-m4136594 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5240	1212395	80	81
+pGBW-m4136595 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4703	1217824	80	81
+pGBW-m4136596 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3989	1222708	80	81
+pGBW-m4136597 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3575	1226870	80	81
+pGBW-m4136598 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3629	1230613	80	81
+pGBW-m4136599 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5033	1234409	80	81
+pGBW-m4136600 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6248	1239626	80	81
+pGBW-m4136601 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4361	1246083	80	81
+pGBW-m4136602 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3575	1250629	80	81
+pGBW-m4136603 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7265	1254372	80	81
+pGBW-m4136604 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5255	1261849	80	81
+pGBW-m4136605 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4106	1267298	80	81
+pGBW-m4136606 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3986	1271577	80	81
+pGBW-m4136607 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3986	1275743	80	81
+pGBW-m4136608 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3809	1279909	80	81
+pGBW-m4136609 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3860	1283889	80	81
+pGBW-m4136610 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4343	1287921	80	81
+pGBW-m4136611 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3575	1292449	80	81
+pGBW-m4136612 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9272	1296197	80	81
+pGBW-m4136613 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5246	1305715	80	81
+pGBW-m4136614 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3485	1311148	80	81
+pGBW-m4136615 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4274	1314798	80	81
+pGBW-m4136616 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5030	1319249	80	81
+pGBW-m4136617 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3692	1324470	80	81
+pGBW-m4136618 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6251	1328331	80	81
+pGBW-m4136619 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3674	1334782	80	81
+pGBW-m4136620 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3809	1338625	80	81
+pGBW-m4136621 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6233	1342610	80	81
+pGBW-m4136622 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3854	1349049	80	81
+pGBW-m4136623 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6239	1353075	80	81
+pGBW-m4136624 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4325	1359514	80	81
+pGBW-m4136625 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3986	1364017	80	81
+pGBW-m4136626 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4115	1368174	80	81
+pGBW-m4136627 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3488	1372463	80	81
+pGBW-m4136628 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4481	1376123	80	81
+pGBW-m4136629 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4049	1380783	80	81
+pGBW-m4136630 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3581	1385005	80	81
+pGBW-m4136631 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4043	1388761	80	81
+pGBW-m4136632 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4118	1392977	80	81
+pGBW-m4136633 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3671	1397270	80	81
+pGBW-m4136634 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4481	1401117	80	81
+pGBW-m4136635 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3788	1405777	80	81
+pGBW-m4136636 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4937	1409741	80	81
+pGBW-m4136637 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3623	1414868	80	81
+pGBW-m4136638 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7271	1418659	80	81
+pGBW-m4136639 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4946	1426142	80	81
+pGBW-m4136640 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4112	1431273	80	81
+pGBW-m4136641 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4040	1435558	80	81
+pGBW-m4136642 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5252	1439772	80	81
+pGBW-m4136643 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4313	1445218	80	81
+pGBW-m4136644 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3677	1449707	80	81
+pGBW-m4136645 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6239	1453558	80	81
+pGBW-m4136646 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4349	1459997	80	81
+pGBW-m4136647 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4943	1464531	80	81
+pGBW-m4136648 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3803	1469664	80	81
+pGBW-m4136649 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4943	1473638	80	81
+pGBW-m4136650 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4265	1478771	80	81
+pGBW-m4136651 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4319	1483220	80	81
+pGBW-m4136652 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6245	1487716	80	81
+pGBW-m4136653 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5246	1494168	80	81
+pGBW-m4136654 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9278	1499610	80	81
+pGBW-m4136655 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9281	1509125	80	81
+pGBW-m4136656 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3869	1518644	80	81
+pGBW-m4136657 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4487	1522692	80	81
+pGBW-m4136658 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3809	1527366	80	81
+pGBW-m4136659 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4046	1531344	80	81
+pGBW-m4136660 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5249	1535562	80	81
+pGBW-m4136661 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4949	1541007	80	81
+pGBW-m4136662 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5363	1546140	80	81
+pGBW-m4136663 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4271	1551694	80	81
+pGBW-m4136664 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4313	1556142	80	81
+pGBW-m4136665 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4490	1560630	80	81
+pGBW-m4136666 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4487	1565299	80	81
+pGBW-m4136667 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9278	1569966	80	81
+pGBW-m4136668 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3866	1579483	80	81
+pGBW-m4136669 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4037	1583521	80	81
+pGBW-m4136670 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4307	1587737	80	81
+pGBW-m4136671 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4043	1592221	80	81
+pGBW-m4136672 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5030	1596437	80	81
+pGBW-m4136673 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3581	1601652	80	81
+pGBW-m4136674 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4112	1605408	80	81
+pGBW-m4136675 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3983	1609695	80	81
+pGBW-m4136676 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4346	1613849	80	81
+pGBW-m4136677 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4955	1618372	80	81
+pGBW-m4136678 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3809	1623519	80	81
+pGBW-m4136679 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4265	1627504	80	81
+pGBW-m4136680 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7265	1631946	80	81
+pGBW-m4136681 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3674	1639423	80	81
+pGBW-m4136682 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3491	1643264	80	81
+pGBW-m4136683 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5366	1646920	80	81
+pGBW-m4136684 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5252	1652484	80	81
+pGBW-m4136685 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4949	1657924	80	81
+pGBW-m4136686 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3671	1663058	80	81
+pGBW-m4136687 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3482	1666898	80	81
+pGBW-m4136688 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4271	1670554	80	81
+pGBW-m4136689 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4952	1675000	80	81
+pGBW-m4136690 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3977	1680142	80	81
+pGBW-m4136691 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7265	1684299	80	81
+pGBW-m4136692 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4709	1691777	80	81
+pGBW-m4136693 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3488	1696675	80	81
+pGBW-m4136694 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4031	1700335	80	81
+pGBW-m4136695 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3863	1704538	80	81
+pGBW-m4136696 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3563	1708571	80	81
+pGBW-m4136697 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9290	1712301	80	81
+pGBW-m4136698 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5363	1721831	80	81
+pGBW-m4136699 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3578	1727383	80	81
+pGBW-m4136700 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6245	1731136	80	81
+pGBW-m4136701 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3788	1737583	80	81
+pGBW-m4136702 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725312.1 pG9m-2 lacIQ ampR	3476	1741547	80	81
+pGBW-m4136703 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3629	1745190	80	81
+pGBW-m4136704 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4340	1748986	80	81
+pGBW-m4136705 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3815	1753503	80	81
+pGBW-m4136706 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4313	1757496	80	81
+pGBW-m4136707 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3560	1761993	80	81
+pGBW-m4136708 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3698	1765728	80	81
+pGBW-m4136709 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3635	1769595	80	81
+pGBW-m4136710 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4037	1773406	80	81
+pGBW-m4136711 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7265	1777624	80	81
+pGBW-m4136712 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724390.1 pG9m-2 lacIQ ampR	7259	1785108	80	81
+pGBW-m4136713 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3578	1792579	80	81
+pGBW-m4136714 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3812	1796323	80	81
+pGBW-m4136715 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3695	1800304	80	81
+pGBW-m4136716 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5360	1804167	80	81
+pGBW-m4136717 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3677	1809716	80	81
+pGBW-m4136718 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4343	1813569	80	81
+pGBW-m4136719 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3635	1818089	80	81
+pGBW-m4136720 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3692	1821893	80	81
+pGBW-m4136721 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4484	1825753	80	81
+pGBW-m4136722 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4367	1830417	80	81
+pGBW-m4136723 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3698	1834961	80	81
+pGBW-m4136724 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6239	1838836	80	81
+pGBW-m4136725 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5357	1845283	80	81
+pGBW-m4136726 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4277	1850829	80	81
+pGBW-m4136727 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4115	1855281	80	81
+pGBW-m4136728 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3575	1859571	80	81
+pGBW-m4136729 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3803	1863319	80	81
+pGBW-m4136730 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4361	1867298	80	81
+pGBW-m4136731 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725304.1 pG9m-2 lacIQ ampR	4043	1871836	80	81
+pGBW-m4136732 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4361	1876053	80	81
+pGBW-m4136733 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3860	1880597	80	81
+pGBW-m4136734 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4112	1884629	80	81
+pGBW-m4136735 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3812	1888914	80	81
+pGBW-m4136736 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4343	1892896	80	81
+pGBW-m4136737 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9287	1897415	80	81
+pGBW-m4136738 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4355	1906947	80	81
+pGBW-m4136739 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724393.1 pG9m-2 lacIQ ampR	4112	1911487	80	81
+pGBW-m4136740 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4367	1915781	80	81
+pGBW-m4136741 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4271	1920333	80	81
+pGBW-m4136742 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3782	1924786	80	81
+pGBW-m4136743 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3815	1928738	80	81
+pGBW-m4136744 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4703	1932731	80	81
+pGBW-m4136745 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5357	1937621	80	81
+pGBW-m4136746 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725301.1 pG9m-2 lacIQ ampR	4373	1943167	80	81
+pGBW-m4136747 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4949	1947718	80	81
+pGBW-m4136748 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4319	1952851	80	81
+pGBW-m4136749 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3815	1957346	80	81
+pGBW-m4136750 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4487	1961332	80	81
+pGBW-m4136751 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3809	1965999	80	81
+pGBW-m4136752 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725311.1 pG9m-2 lacIQ ampR	4337	1969979	80	81
+pGBW-m4136753 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725308.1 pG9m-2 lacIQ ampR	5258	1974493	80	81
+pGBW-m4136754 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3671	1979947	80	81
+pGBW-m4136755 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3629	1983794	80	81
+pGBW-m4136756 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725303.1 pG9m-2 lacIQ ampR	3686	1987597	80	81
+pGBW-m4136757 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725297.1 pG9m-2 lacIQ ampR	3983	1991460	80	81
+pGBW-m4136758 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724394.1 pG9m-2 lacIQ ampR	3632	1995614	80	81
+pGBW-m4136759 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3860	1999422	80	81
+pGBW-m4136760 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5024	2003459	80	81
+pGBW-m4136761 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9284	2008668	80	81
+pGBW-m4136762 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725300.1 pG9m-2 lacIQ ampR	4943	2018197	80	81
+pGBW-m4136763 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724396.1 pG9m-2 lacIQ ampR	3809	2023332	80	81
+pGBW-m4136764 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4316	2027310	80	81
+pGBW-m4136765 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725318.1 pG9m-2 lacIQ ampR	3569	2031808	80	81
+pGBW-m4136766 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725306.1 pG9m-2 lacIQ ampR	3866	2035552	80	81
+pGBW-m4136767 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725298.1 pG9m-2 lacIQ ampR	5363	2039597	80	81
+pGBW-m4136768 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3566	2045150	80	81
+pGBW-m4136769 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3560	2048884	80	81
+pGBW-m4136770 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4697	2052617	80	81
+pGBW-m4136771 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724392.1 pG9m-2 lacIQ ampR	3665	2057501	80	81
+pGBW-m4136772 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725310.1 pG9m-2 lacIQ ampR	4481	2061335	80	81
+pGBW-m4136773 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3560	2065996	80	81
+pGBW-m4136774 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5018	2069729	80	81
+pGBW-m4136775 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724395.1 pG9m-2 lacIQ ampR	3815	2074932	80	81
+pGBW-m4136776 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3554	2078923	80	81
+pGBW-m4136777 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5036	2082644	80	81
+pGBW-m4136778 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9284	2087866	80	81
+pGBW-m4136779 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5027	2097388	80	81
+pGBW-m4136780 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4274	2102599	80	81
+pGBW-m4136781 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725305.1 pG9m-2 lacIQ ampR	3788	2107057	80	81
+pGBW-m4136782 EPITOPE_epitope_myc_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725255.1 pG9m-2 lacIQ ampR	3566	2111015	80	81
+pGBW-m4136783 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009724397.2 pG9m-2 lacIQ ampR	4703	2114756	80	81
+pGBW-m4136784 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725307.1 pG9m-2 lacIQ ampR	6242	2119639	80	81
+pGBW-m4136785 EPITOPE_affinity_strepii_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725309.1 pG9m-2 lacIQ ampR	5024	2126090	80	81
+pGBW-m4136786 EPITOPE_affinity_6xhis_multiple Severe acute respiratory syndrome coronavirus 2:YP_009725299.1 pG9m-2 lacIQ ampR	9278	2131305	80	81
+pGBW-m4136787 EPITOPE_epitope_flag_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009724391.1 pG9m-2 lacIQ ampR	4271	2140822	80	81
+pGBW-m4136788 EPITOPE_epitope_ha_ecoli Severe acute respiratory syndrome coronavirus 2:YP_009725302.1 pG9m-2 lacIQ ampR	4322	2145268	80	81
