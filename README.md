@@ -15,10 +15,10 @@ without restrictions at:
 - [Addgene](https://www.addgene.org/Ginkgo_Bioworks/)
 - [The BioBricks Free Genes Project](https://biobricks.org/freegenes/)
 
-We'll be sending weekly rounds of constructs to both locations, and this
-repository provides detailed summaries, sequences and annotations to help make
-them directly useful. We've provided information on constructs in progress or
-planned to give direct insight into what is upcoming.
+We'll be sending weekly [submissions of constructs](./submissions) to both
+locations, and this repository provides detailed summaries, sequences and
+annotations to help make them directly useful. We've provided information on
+constructs in progress or planned to give direct insight into what is upcoming.
 
 ## Data
 
