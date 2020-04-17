@@ -29,4 +29,8 @@
  ;; Details on Addgene and BioBricks submissions
  :submissions {"2020-04-07" {:containers [503313 503317 503945 504295]}
                "2020-04-15" {:containers [505170 505199 505200 505201]}}
+ :ncbi-to-uniprot {"YP_009725311.1" "nsp16"
+                   "YP_009725307.1" "nsp12"
+                   "YP_009725309.1" "ExoN"
+                   "YP_009725310.1" "nsp15"}
  }
