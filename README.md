@@ -25,7 +25,8 @@ organized with multiple entry points.
 
 - [Summary of of constructs by protein](genome/ginkgo-covid-summary-by-protein.md), organized
   based on the [genome structure of SARS-CoV-2](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html).
-  This is the easiest entry point based on your proteins of interest.
+  This is the easiest entry point to find constructs for one or more proteins of
+  interest.
 
 - [Top level summary of ongoing and planned projects](./summary/ginkgo-covid-summary.csv),
   grouped to provide context and details. This is most helpful to get an
