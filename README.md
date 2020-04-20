@@ -18,14 +18,21 @@ without restrictions at:
 We'll be sending weekly [submissions of constructs](./submissions) to both
 locations, and this repository provides detailed summaries, sequences and
 annotations to help make them directly useful. We've provided information on
-constructs in progress or planned to give direct insight into what is upcoming.
+constructs in progress or planned to give direct insight into what is upcoming,
+organized with multiple entry points.
 
 ## Data
 
-- [Top level summary of ongoing and planned projects](./summary/ginkgo-covid-summary.csv),
-  grouped to provide context and details
+- [Summary of of constructs by protein](genome/ginkgo-covid-summary-by-protein.md), organized
+  based on the [genome structure of SARS-CoV-2](https://www.nytimes.com/interactive/2020/04/03/science/coronavirus-genome-bad-news-wrapped-in-protein.html).
+  This is the easiest entry point based on your proteins of interest.
 
-- CSV level summary of constructs:
+- [Top level summary of ongoing and planned projects](./summary/ginkgo-covid-summary.csv),
+  grouped to provide context and details. This is most helpful to get an
+  overview of different synthesis projects.
+
+- CSV level summary of constructs. These are most useful to find constructs
+  based on expression host or synthesis type:
   - [E coli expression](./summary/ginkgo-covid-e-coli-expression.csv) --
     SARS-CoV-2 proteins in E coli vectors with various C-terminal tags for
     protein expression and purification.
@@ -36,11 +43,13 @@ constructs in progress or planned to give direct insight into what is upcoming.
     Mammalian expression constructs with tags along with Spike protein
     constructs for expression and VSV pseudotyping.
   - [Viral parts](./summary/ginkgo-covid-viral-parts.csv) -- Plasmids containing
-    viral DNA.
-  - [Yeast plasmid backbone](./summary/ginkgo-covid-yeast-backbone.csv) -- 
+    larger segments of viral DNA.
+  - [Yeast plasmid backbone](./summary/ginkgo-covid-yeast-backbone.csv) --
+    Sections of the plasmid backbone for making yeast expression vectors.
 
 - [Sequences and GFF annotation files for constructs](./sequences), with full
-  annotations of features in each plasmid
+  annotations of features in each plasmid. These provide full sequences and
+  annotations once you've identified constructs of interest.
 
 ## Feedback
 
