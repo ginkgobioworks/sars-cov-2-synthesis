@@ -61,9 +61,9 @@ Viral parts,955,4092704,,COVID19 cDNA expression plasmids,COVID 19 template for 
 Viral parts,955,4092688,,COVID19 cDNA expression plasmids,COVID 19 template for expression,"fragment orf1a stop to orf1b stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding",Escherichia coli str. K-12 substr. MG1655,pG9m-2 backbone,ampicillin,medium
 Viral parts,955,4092693,,COVID19 cDNA expression plasmids,COVID 19 template for expression,"fragment 5pUTR to orf1a stop with tIIs sites removed | Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome | Nearly native encoding",Escherichia coli str. K-12 substr. MG1655,p15A Kan | from m1954452,kanamycin,medium
 Viral parts,1036,4105633,[765538],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,SARS-CoV-2 [21556:~-10],,pUC19 EcoRI NEBuilder polished,ampicillin,high
-Viral parts,1036,4105611,[765536],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,SARS-CoV-2 [11108:21562],,pUC19 EcoRI NEBuilder polished,ampicillin,high
-Viral parts,1036,4105607,[765533],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,F8-12WW [11108:19300],,pUC19 EcoRI NEBuilder polished,ampicillin,high
 Viral parts,1036,4105606,[765532],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,F1-3 [:4904],,pUC19 EcoRI NEBuilder polished,ampicillin,high
-Viral parts,1036,4105610,[765535],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,SARS-CoV-2 S,,pUC19 EcoRI NEBuilder polished,ampicillin,high
-Viral parts,1036,4105612,[765537],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,F4-7 [4709:11292],,pUC19 EcoRI NEBuilder polished,ampicillin,high
+Viral parts,1036,4105607,[765533],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,F8-12WW [11108:19300],,pUC19 EcoRI NEBuilder polished,ampicillin,high
 Viral parts,1036,4105609,[765534],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,SARS-CoV-2 [1:11292],,pUC19 EcoRI NEBuilder polished,ampicillin,high
+Viral parts,1036,4105612,[765537],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,F4-7 [4709:11292],,pUC19 EcoRI NEBuilder polished,ampicillin,high
+Viral parts,1036,4105610,[765535],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,SARS-CoV-2 S,,pUC19 EcoRI NEBuilder polished,ampicillin,high
+Viral parts,1036,4105611,[765536],Cloned SARS-CoV-2 cDNA in pUC,Cloning cDNA from Codagenix source DNA,SARS-CoV-2 [11108:21562],,pUC19 EcoRI NEBuilder polished,ampicillin,high
