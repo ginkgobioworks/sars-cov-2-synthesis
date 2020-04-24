@@ -12,7 +12,9 @@ widely understand community needs and provide a large collection of resources.
 As constructs are synthesized and validated they'll be made available
 without restrictions at:
 
-- [Addgene](https://www.addgene.org/Ginkgo_Bioworks/)
+- Addgene
+   - [Ginkgo specific constructs](https://www.addgene.org/Ginkgo_Bioworks/)
+   - [All COVID-19 resources at Addgene](https://www.addgene.org/collections/covid-19-resources/)
 - [The BioBricks Free Genes Project](https://biobricks.org/freegenes/)
 
 We'll be sending weekly [submissions of constructs](./submissions) to both

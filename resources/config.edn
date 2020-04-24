@@ -25,10 +25,40 @@
               1106277 {:display-name "HA"}
               1106288 {:display-name "Myc"}
               1106275 {:display-name "FLAG_2"}
+              180976 {:display-name "Linker_GGSG"}
+              2048679 {:display-name "MBP"}
+              1106083 {:display-name "GST"}
+              2409937 {:organism "Escherichia coli str. K-12 substr. MG1655"}
+              4137380 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-promoter "CMV"
+                       :design-protein-mutations "19-aa Ctrunc" :design-recode "H. sapiens recode"}
+              4137376 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-promoter "CMV"
+                       :design-protein-mutations "19-aa Ctrunc" :design-recode "wt"}
+              4137377 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-promoter "CMV"
+                       :design-protein-mutations "wt" :design-recode "wt"}
+              4137379 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-promoter "CMV"
+                       :design-protein-mutations "wt" :design-recode "H. sapiens recode"}
+              4137378 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-promoter "CMV"
+                       :design-protein-mutations "18-aa Ctrunc" :design-recode "wt"}
+              4137381 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-promoter "CMV"
+                       :design-protein-mutations "18-aa Ctrunc" :design-recode "H. sapiens recode"}
+              44379 {:copy-number "high"}
             }}
  ;; Details on Addgene and BioBricks submissions
  :submissions {"2020-04-07" {:containers [503313 503317 503945 504295]}
-               "2020-04-15" {:containers [505170 505199 505200 505201]}}
+               "2020-04-15" {:containers [505170 505199 505200 505201]}
+               "2020-04-22" {:containers [505555 506641 506642]}}
  :ncbi-to-uniprot {"YP_009725311.1" "nsp16"
                    "YP_009725307.1" "nsp12"
                    "YP_009725309.1" "ExoN"
