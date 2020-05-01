@@ -13,7 +13,7 @@ As constructs are synthesized and validated they'll be made available
 without restrictions at:
 
 - Addgene
-   - [Ginkgo specific constructs](https://www.addgene.org/Ginkgo_Bioworks/)
+   - [Ginkgo specific constructs](https://www.addgene.org/depositor-collections/ginkgobioworks-covid-19/)
    - [All COVID-19 resources at Addgene](https://www.addgene.org/collections/covid-19-resources/)
 - [The BioBricks Free Genes Project](https://biobricks.org/freegenes/)
 

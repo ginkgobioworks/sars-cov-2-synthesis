@@ -54,11 +54,31 @@
                        :design-promoter "CMV"
                        :design-protein-mutations "18-aa Ctrunc" :design-recode "H. sapiens recode"}
               44379 {:copy-number "high"}
-            }}
+              4110537 {:copy-number "high" :antibiotic-resistance "ampicillin" :selectable-marker "puromycin"
+                       :design-promoter "CMV"}
+              4110536 {:copy-number "high" :antibiotic-resistance "ampicillin" :selectable-marker "hygromycin"
+                       :design-promoter "CMV"}
+              4105721 {:copy-number "high" :antibiotic-resistance "ampicillin" :design-promoter "CMV"}
+              4128313 {:display-name "SARS CoV-2 secretion signal"}
+              4128315 {:display-name "Linker_GSS"}
+              4124344 {:display-name "Nanoluciferase"}
+              4128314 {:display-name "8xHIS"}
+              4128316 {:display-name "Linker_GSSGSS"}
+              4110707 {:display-name "Cleavable TEV"}
+              4110697 {:display-name "TRX"}
+              4110698 {:display-name "3xFlag"}
+              4110701 {:display-name "TapTag"}
+              4110696 {:display-name "S-tag"}
+              4110704 {:display-name "V5"}
+              4110703 {:display-name "CBP"}
+              4110699 {:display-name "HA"}
+              }}
  ;; Details on Addgene and BioBricks submissions
  :submissions {"2020-04-07" {:containers [503313 503317 503945 504295]}
                "2020-04-15" {:containers [505170 505199 505200 505201]}
-               "2020-04-22" {:containers [505555 506641 506642]}}
+               "2020-04-22" {:containers [505555 506641 506642]}
+               "2020-04-29" {:containers [507960 507971 507972 507973 507974 507975 507976 507977 507978
+                                          507979 507980 507981 507982 508049 508050 508051]}}
  :ncbi-to-uniprot {"YP_009725311.1" "nsp16"
                    "YP_009725307.1" "nsp12"
                    "YP_009725309.1" "ExoN"
