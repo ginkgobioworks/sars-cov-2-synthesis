@@ -53,10 +53,44 @@
                        :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
                        :design-promoter "CMV"
                        :design-protein-mutations "18-aa Ctrunc" :design-recode "H. sapiens recode"}
+              4155327 {:organism "Homo sapiens"}
+              4164339 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-protein-mutations "wt" :design-recode "Gordon et al recoded"}
+              4164340 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-protein-mutations "19-aa Ctrunc" :design-recode "Gordon et al recoded"}
+              4164343 {:design-accession "YP_009724390.1" :design-protein-name "surface glycoprotein"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-protein-mutations "18-aa Ctrunc" :design-recode "Gordon et al recoded"}
+              4092649 {:design-protein-name "fragment of orf1ab 3pUTR to viral genome 3pUTR"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-protein-mutations "inactivating mutations in all ORFs and tIIs restriction sites removed with 15 base polyA tail"
+                       :design-recode "Nearly native encoding"}
+              4092646 {:design-protein-name "fragment of orf1ab 3pUTR to viral genome 3pUTR"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-protein-mutations "handful SNPs as watermarks; tIIs restriction sites removed with 15 base polyA tail"
+                       :design-recode "Nearly native encoding"}
+              4092657 {:design-protein-name "fragment orf1a mature peptide 3 to orf1a stop"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-protein-mutations "wt"
+                       :design-recode "wt"}
+              4092659 {:design-protein-name "fragment orf1a stop to orf1b stop"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-protein-mutations "handful of SNPs as watermarks"
+                       :design-recode "wt"}
+              4092647 {:design-protein-name "fragment of orf1ab 3pUTR to viral genome 3pUTR"
+                       :design-source-organism "Severe acute respiratory syndrome coronavirus 2"
+                       :design-protein-mutations "inactivating mutations in all ORFs and tIIs restriction sites removed with 5 base polyA tail"
+                       :design-recode "Nearly native encoding"}
               44379 {:copy-number "high"}
               4110537 {:copy-number "high" :antibiotic-resistance "ampicillin" :selectable-marker "puromycin"
                        :design-promoter "CMV"}
+              4135990 {:copy-number "high" :antibiotic-resistance "ampicillin" :selectable-marker "puromycin"
+                       :design-promoter "CMV"}
               4110536 {:copy-number "high" :antibiotic-resistance "ampicillin" :selectable-marker "hygromycin"
+                       :design-promoter "CMV"}
+              4135991 {:copy-number "high" :antibiotic-resistance "ampicillin" :selectable-marker "hygromycin"
                        :design-promoter "CMV"}
               4105721 {:copy-number "high" :antibiotic-resistance "ampicillin" :design-promoter "CMV"}
               4128313 {:display-name "SARS CoV-2 secretion signal"}
@@ -75,12 +109,14 @@
               }}
  ;; Filtering of constructs not made available
  :filters {:molecule-name #{"EGFP" "luciferase"}}
+ :adjustments {:molecule ["patches/Loom_trans_779_newmIDlookup.xlsx" "patches/Loom_trans_780_newmIDlookup.xlsx"]}
  ;; Details on Addgene and BioBricks submissions
  :submissions {"2020-04-07" {:containers [503313 503317 503945 504295]}
                "2020-04-15" {:containers [505170 505199 505200 505201]}
                "2020-04-22" {:containers [505555 506641 506642]}
                "2020-04-29" {:containers [507960 507971 507972 507973 507974 507975 507976 507977 507978
-                                          507979 507980 507981 507982 508049 508050 508051]}}
+                                          507979 507980 507981 507982 508049 508050 508051]}
+               "2020-05-13" {:containers [509137 511672 511639 511638 511706]}}
  :ngs-validation-experiments #{"17736" "17792"}
  :ncbi-to-uniprot {"YP_009725311.1" "nsp16"
                    "YP_009725307.1" "nsp12"
