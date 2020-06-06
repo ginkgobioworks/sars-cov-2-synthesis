@@ -108,8 +108,10 @@
               4110699 {:display-name "HA"}
               }}
  ;; Filtering of constructs not made available
- :filters {:molecule-name #{"EGFP" "luciferase"}}
- :adjustments {:molecule ["patches/Loom_trans_779_newmIDlookup.xlsx" "patches/Loom_trans_780_newmIDlookup.xlsx"]}
+ :filters {:molecule-name {:remove #{"EGFP" "luciferase"}
+                           :allow #{}}}
+ :adjustments {:molecule ["patches/Loom_trans_779_newmIDlookup.xlsx" "patches/Loom_trans_780_newmIDlookup.xlsx"
+                          "patches/515900_lookup.xlsx"]}
  ;; Details on Addgene and BioBricks submissions
  :submissions {"2020-04-07" {:containers [503313 503317 503945 504295]}
                "2020-04-15" {:containers [505170 505199 505200 505201]}
@@ -117,7 +119,9 @@
                "2020-04-29" {:containers [507960 507971 507972 507973 507974 507975 507976 507977 507978
                                           507979 507980 507981 507982 508049 508050 508051]}
                "2020-05-13" {:containers [509137 511672 511639 511638 511706]
-                             :with-replicates #{509137}}}
+                             :with-replicates #{509137}}
+               "2020-06-04" {:containers [515900]
+                             :filters {:molecule-name {:remove #{"EGFP"}}}}}
  :ngs-validation-experiments #{"17736" "17792"}
  :ncbi-to-uniprot {"YP_009725311.1" "nsp16"
                    "YP_009725307.1" "nsp12"
